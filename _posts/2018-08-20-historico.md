@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Histórico do grupo"
 date:   2018-08-20
 categories: grupo

@@ -10,8 +10,8 @@ DEFAULTS := defaults.yaml _biblio.bib
 JEKYLL-VERSION := 4.2.0
 PANDOC-VERSION := 2.12
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
-	-v "`pwd`/.vendor/bundle:/usr/local/bundle" \
-	-u "`id -u`:`id -g`" palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
+	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
+	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
@@ -30,7 +30,7 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	@echo "$< > $@"
 
 .PHONY : _site
-_site :
+_site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@$(JEKYLL/PANDOC) /bin/bash -c \
 	"chmod 777 /srv/jekyll && jekyll build"
 
@@ -40,6 +40,10 @@ _csl/%.csl : _csl
 
 # Install and cleanup {{{1
 # ===================
+.PHONY : serve
+serve : | _csl/chicago-fullnote-bibliography-with-ibid.csl
+	@$(JEKYLL/PANDOC) jekyll serve
+
 .PHONY : _csl
 _csl :
 	@echo "Fetching CSL styles..."
