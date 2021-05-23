@@ -1,6 +1,6 @@
 ---
-familyName: Mori
-givenName: Anny
+title: "Anny Mori"
+author: Anny Mori
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2705179D9
 sameAs:

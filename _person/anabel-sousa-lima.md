@@ -1,6 +1,6 @@
 ---
-familyName: Lima
-givenName: Anabel Sousa
+title: "Anabel Sousa Lima"
+author: Anabel Sousa Lima
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8964107H1
 sameAs:

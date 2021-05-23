@@ -1,7 +1,6 @@
 ---
-familyName: Azevedo
-givenName: Mariana de Fátima Macedo Nunes
-additionalName: de
+title: "Mariana de Fátima Macedo Nunes de Azevedo"
+author: Mariana de Fátima Macedo Nunes de Azevedo
 identifier: 0000-0003-0476-6962
 image: 
 sameAs:

@@ -1,6 +1,6 @@
 ---
-familyName: Siqueira
-givenName: Laura Santos
+title: "Laura Santos Siqueira"
+author: Laura Santos Siqueira
 identifier: 0000-0001-5523-6844
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8585433U6
 sameAs:

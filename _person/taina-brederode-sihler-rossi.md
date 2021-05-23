@@ -1,6 +1,6 @@
 ---
-familyName: Rossi
-givenName: Tainá Brederode Sihler
+title: "Tainá Brederode Sihler Rossi"
+author: Tainá Brederode Sihler Rossi
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8642587H7
 sameAs:

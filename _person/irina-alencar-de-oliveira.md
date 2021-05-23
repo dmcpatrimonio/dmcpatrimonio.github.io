@@ -1,7 +1,6 @@
 ---
-familyName: Oliveira
-givenName: Irina Alencar
-additionalName: de
+title: "Irina Alencar de Oliveira"
+author: Irina Alencar de Oliveira
 identifier: 0000-0002-6649-263X
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4840411Y6
 sameAs:

@@ -1,6 +1,6 @@
 ---
-familyName: Mennucci
-givenName: Marina Martins
+title: "Marina Martins Mennucci"
+author: Marina Martins Mennucci
 identifier: 0000-0001-7188-6804
 sameAs:
 - name: CNPq

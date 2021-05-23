@@ -1,6 +1,6 @@
 ---
-familyName: Pires
-givenName: Gabriel Montenegro Passos
+title: "Gabriel Montenegro Passos Pires"
+author: Gabriel Montenegro Passos Pires
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8034206Y6
 sameAs:

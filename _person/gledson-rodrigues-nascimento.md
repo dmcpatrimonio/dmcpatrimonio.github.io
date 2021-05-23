@@ -1,7 +1,6 @@
 ---
-familyName: Nascimento
-givenName: Gledson Rodrigues
-additionalName: do
+title: "Gledson Rodrigues do Nascimento"
+author: Gledson Rodrigues do Nascimento
 identifier: 0000-0003-2705-4925
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8761928P2
 sameAs:

@@ -1,6 +1,6 @@
 ---
-familyName: Cruz
-givenName: Juliane Porto
+title: "Juliane Porto Cruz"
+author: Juliane Porto Cruz
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4343962P6
 sameAs:

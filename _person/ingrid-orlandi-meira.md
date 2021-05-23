@@ -1,6 +1,6 @@
 ---
-familyName: Meira
-givenName: Ingrid Orlandi
+title: "Ingrid Orlandi Meira"
+author: Ingrid Orlandi Meira
 identifier: 0000-0002-7558-961X
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4835370Z3
 sameAs:

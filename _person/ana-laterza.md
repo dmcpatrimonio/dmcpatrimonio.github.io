@@ -1,6 +1,6 @@
 ---
-familyName: Laterza
-givenName: Ana
+title: "Ana Laterza"
+author: Ana Laterza
 identifier: 
 image: 
 sameAs:

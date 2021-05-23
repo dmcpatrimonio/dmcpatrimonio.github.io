@@ -1,6 +1,6 @@
 ---
-familyName: Gabriele
-givenName: Maria Clara Filgueiras Lima
+title: "Maria Clara Filgueiras Lima Gabriele"
+author: Maria Clara Filgueiras Lima Gabriele
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4890420E0
 sameAs:

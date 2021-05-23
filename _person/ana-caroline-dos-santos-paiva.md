@@ -1,7 +1,6 @@
 ---
-familyName: Paiva
-givenName: Ana Caroline dos Santos
-additionalName: 
+title: "Ana Caroline dos Santos Paiva"
+author: Ana Caroline dos Santos Paiva
 identifier: 0000-0003-4299-6291
 image: 
 sameAs:

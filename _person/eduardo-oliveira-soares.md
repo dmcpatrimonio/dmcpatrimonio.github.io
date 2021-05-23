@@ -1,6 +1,6 @@
 ---
-familyName: Soares
-givenName: Eduardo Oliveira
+title: "Eduardo Oliveira Soares"
+author: Eduardo Oliveira Soares
 identifier: 0000-0003-2655-8080
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4298856D4
 sameAs:

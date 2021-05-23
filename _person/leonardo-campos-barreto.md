@@ -1,6 +1,6 @@
 ---
-familyName: Barreto
-givenName: Leonardo Campos
+title: "Leonardo Campos Barreto"
+author: Leonardo Campos Barreto
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8144203E5
 sameAs:

@@ -1,6 +1,6 @@
 ---
-familyName: Dantas
-givenName: Maritza Giacomazzi
+title: "Maritza Giacomazzi Dantas"
+author: Maritza Giacomazzi Dantas
 identifier: 0000-0002-8567-0390
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4458417U3
 sameAs:

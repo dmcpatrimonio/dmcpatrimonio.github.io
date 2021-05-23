@@ -1,7 +1,6 @@
 ---
-familyName: Xavier
-givenName: Daniela Matias
-additionalName: 
+title: "Daniela Matias  Xavier"
+author: Daniela Matias  Xavier
 identifier: 0000-0002-7858-9324
 image: 
 sameAs:

@@ -1,7 +1,6 @@
 ---
-familyName: Testi Neto
-givenName: João
-additionalName: 
+title: "João  Testi Neto"
+author: João  Testi Neto
 identifier: 0000-0001-7192-425X
 image: 
 sameAs:

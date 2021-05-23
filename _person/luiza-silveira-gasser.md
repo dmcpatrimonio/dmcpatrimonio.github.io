@@ -1,7 +1,6 @@
 ---
-familyName: Gasser
-givenName: Luiza Silveira
-additionalName: 
+title: "Luiza Silveira  Gasser"
+author: Luiza Silveira  Gasser
 identifier: 0000-0002-8625-6837
 image: 
 sameAs:

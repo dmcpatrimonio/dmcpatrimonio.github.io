@@ -1,6 +1,6 @@
 ---
-familyName: Palazzo
-givenName: Pedro Paulo
+title: "Pedro Paulo Palazzo"
+author: Pedro Paulo Palazzo
 identifier: 0000-0002-0187-774X
 image: https://avatars3.githubusercontent.com/u/8295666
 sameAs:
@@ -9,8 +9,6 @@ sameAs:
 - name: Site pessoal
   image:
   url: https://p3palazzo.github.io
-email: palazzo@unb.br
-telephone: 55 61 31 07 74 49
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,6 +1,6 @@
 ---
-familyName: Loddi
-givenName: Laila Beatriz da Rocha
+title: "Laila Beatriz da Rocha Loddi"
+author: Laila Beatriz da Rocha Loddi
 identifier: 0000-0001-5387-755X
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4214280T6
 sameAs:

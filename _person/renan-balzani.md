@@ -1,6 +1,6 @@
 ---
-familyName: Balzani
-givenName: Renan
+title: "Renan Balzani"
+author: Renan Balzani
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4462038U7
 sameAs:
 - name: CNPq

@@ -1,6 +1,6 @@
 ---
-familyName: Ribeiro
-givenName: Fernanda Reis
+title: "Fernanda Reis Ribeiro"
+author: Fernanda Reis Ribeiro
 identifier: 0000-0002-0789-1307
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8528320U1
 sameAs:

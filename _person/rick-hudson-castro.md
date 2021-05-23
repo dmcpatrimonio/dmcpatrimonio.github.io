@@ -1,6 +1,6 @@
 ---
-familyName: Castro
-givenName: Rick Hudson
+title: "Rick Hudson Castro"
+author: Rick Hudson Castro
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2154606U6
 sameAs:

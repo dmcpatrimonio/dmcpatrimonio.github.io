@@ -1,6 +1,6 @@
 ---
-familyName: Carlos Lázaro Rocha
-givenName: Barbosa
+title: "Barbosa Carlos Lázaro Rocha"
+author: Barbosa Carlos Lázaro Rocha
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2706630Y6
 sameAs:

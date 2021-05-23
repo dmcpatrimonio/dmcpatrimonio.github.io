@@ -1,12 +1,11 @@
 ---
-familyName: Zanoni
-givenName: Vanda Alice Garcia
+title: "Vanda Alice Garcia Zanoni"
+author: Vanda Alice Garcia Zanoni
 identifier: 0000-0003-2629-4214
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4711360U8
 sameAs:
 - name: CNPq
   url: 9313626132229535
-email: vandazanoni@unb.br
 affiliation:
 - Organization: dmcpatrimonio
   Role:

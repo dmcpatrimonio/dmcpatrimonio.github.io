@@ -1,6 +1,6 @@
 ---
-familyName: Chaim
-givenName: Giselle Marie Cormier
+title: "Giselle Marie Cormier Chaim"
+author: Giselle Marie Cormier Chaim
 identifier: 0000-0002-5133-6968
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4426349P5
 sameAs:

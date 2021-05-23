@@ -1,6 +1,6 @@
 ---
-familyName: Faria
-givenName: Luana Alves
+title: "Luana Alves Faria"
+author: Luana Alves Faria
 identifier: 
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8649271T7
 sameAs:

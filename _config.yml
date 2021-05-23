@@ -390,7 +390,7 @@ defaults:
       path               : ""
       type               : "person"
     values:
-      layout             : "person"
+      layout             : "single"
       itemtype           : "http://schema.org/Person"
       class              : "Agent"
       author_profile     : true

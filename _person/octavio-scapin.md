@@ -1,6 +1,6 @@
 ---
-familyName: Scapin
-givenName: Octávio
+title: "Octávio Scapin"
+author: Octávio Scapin
 identifier: 
 sameAs:
 - name: CNPq

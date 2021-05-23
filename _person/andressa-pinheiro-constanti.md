@@ -1,6 +1,6 @@
 ---
-familyName: Constanti
-givenName: Andressa Pinheiro
+title: "Andressa Pinheiro Constanti"
+author: Andressa Pinheiro Constanti
 identifier: 
 sameAs:
 - name: CNPq

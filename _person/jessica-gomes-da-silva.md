@@ -1,7 +1,6 @@
 ---
-familyName: Silva
-givenName: Jéssica Gomes
-additionalName: da
+title: "Jéssica Gomes da Silva"
+author: Jéssica Gomes da Silva
 identifier: 0000-0001-7897-8365
 image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8015412D9
 sameAs:
