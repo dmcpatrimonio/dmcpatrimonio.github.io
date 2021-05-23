@@ -7,7 +7,13 @@ Site do grupo de pesquisa. Usamos:
 - [Jekyll](https://jekyllrb.com)
 - Template [Minimal Mistakes](https://mmistakes.github.io/)
 
-<!-- -->
+## Como atualizar este site ##
+
+### Novo membro: ###
+
+### Novo projeto de pesquisa: ###
+
+### Nova produção bibliográfica: ###
 
 * * * *
 

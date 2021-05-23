@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Histórico do grupo"
+permalink: /about/
 ---
 
 O Grupo de Pesquisa Documentação, Modelagem e Conservação do Patrimônio

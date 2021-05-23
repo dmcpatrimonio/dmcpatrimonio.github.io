@@ -7,7 +7,7 @@
 {%- else -%}
   {%- assign biblio = site.data.biblio.references | sort: "id" -%}
 {%- endif -%}
-{% if page.collection and biblio %}<h3>Produção bibliográfica e técnica</h2>{% endif %}
+{% if page.collection and biblio %}<h2>Produção bibliográfica e técnica</h2>{% endif %}
 <ol class="refs bib-chicago">
   {% for work in biblio %}
     {%- assign output = 1 -%}

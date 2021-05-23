@@ -6,7 +6,7 @@ layout: single
 
   <header class="post-header">
     {% if page.image %}
-      <div class="page-image">
+      <div class="align-right">
         <img title="{{ page.title }}" alt="Imagem pessoal" src="{{ page.image }}" />
       </div>
     {% endif %}
@@ -70,7 +70,7 @@ layout: single
 
     {{ content }}
 
-    <h3>Projetos de pesquisa</h3>
+    <h2>Projetos de pesquisa</h2>
     <ul class="list affiliation">
       {% for org in page.affiliation %}
       {%- assign orgid = site.organization | where: "identifier", org.Organization -%}

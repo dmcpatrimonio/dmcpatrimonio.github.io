@@ -105,9 +105,9 @@ author:
   location         : "Universidade de Brasília"
   email            : "labeurbe@unb.br"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:labeurbe@unb.br"
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:labeurbe@unb.br"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://labeurbe.unb.br"
@@ -441,7 +441,7 @@ collections:
   person:
     output   : true
     permalink: /membro/:title/
-    sort_by  : familyName
+    sort_by  : title
   project:
     output   : true
     permalink: /projeto/:title/
