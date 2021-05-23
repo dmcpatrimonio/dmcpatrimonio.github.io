@@ -263,24 +263,33 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: jekyll-archives
-  path: /categories/
+  path: /categoria/
 tag_archive:
   type: jekyll-archives
-  path: /tags/
+  path: /termo/
+year_archive:
+  type: jekyll-archives
+  path: /ano/
+collection_archive:
+  type: jekyll-archives
+  path: /dados/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
     - tags
     - year
+    - collection
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
     year: archive-taxonomy
+    collection: archive-taxonomy
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
-    year: /:year/
+    category: /categoria/:name/
+    tag: /termo/:name/
+    year: /ano/:year/
+    collection: /dados/:collection/
 
 
 # HTML Compression
@@ -303,8 +312,10 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      show_date: true
       related: true
+      show_date          : true
+      date_format        : "%d/%m/%Y"
+      toc                : true
     # _thing
   - scope:
       path               : ""
@@ -317,6 +328,7 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
     # _biblio
   - scope:
       path               : ""
@@ -330,6 +342,7 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : false
     # _event
   - scope:
       path               : ""
@@ -343,6 +356,7 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
     # _grant
   - scope:
       path               : ""
@@ -356,6 +370,7 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
     # _organization
   - scope:
       path               : ""
@@ -369,6 +384,7 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
     # _person
   - scope:
       path               : ""
@@ -377,11 +393,12 @@ defaults:
       layout             : "person"
       itemtype           : "http://schema.org/Person"
       class              : "Agent"
-      author_profile     : false
+      author_profile     : true
       read_time          : false
       comments           : false
       share              : true
       related            : false
+      toc                : true
     # _project
   - scope:
       path               : ""
@@ -395,6 +412,8 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
+
 
 # Collections
 collections:

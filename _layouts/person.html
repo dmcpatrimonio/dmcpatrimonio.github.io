@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 ---
 {% assign page.title = page.givenName | append: " " | append: page.additionalName | append: " " | append: page.familyName %}
 <article itemscope itemtype="http://schema.org/Person" class="person">
@@ -10,15 +10,11 @@ layout: default
         <img title="{{ page.title }}" alt="Imagem pessoal" src="{{ page.image }}" />
       </div>
     {% endif %}
-    {% if page.date %}
-      <p class="date">Última atualização: {{ page.date | date: "%e %B %Y" }}</p>
-    {% endif %}
-    <h1 class="post-title">{{ page.title | escape }}</h1>
     <dl>
       {% if page.identifier %}
         <dd>
           <a itemprop="identifier" content="https://orcid.org/{{ page.identifier }}" href="https://orcid.org/{{ page.identifier }}" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;">
-            <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />
+            <i class="ai ai-orcid"></i>
             https://orcid.org/{{ page.identifier }}
           </a>
         </dd>
@@ -27,12 +23,12 @@ layout: default
         {%- if link.name == "CNPq" -%}
         <dd>
         <a itemprop="sameAs" content="http://lattes.cnpq.br/{{ link.url }}" href="http://lattes.cnpq.br/{{ link.url }}" title="Currículo Lattes">
-          <img src="http://memoria.cnpq.br/Portal-Lattes-Home-theme/images/logo-lattes.png" alt="Currículo Lattes" />
+          <i class="ai ai-lattes"></i> http://lattes.cnpq.br/{{ link.url }}
           </a>
         </dd>
         <dd>
         <a itemprop="sameAs" content="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" href="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" title="Diretório dos Grupos de Pesquisa">
-          <img src="http://lattes.cnpq.br/image/layout_set_logo?img_id=14055&t=1588186121214" alt="Diretório dos Grupos de Pesquisa" />
+          <img src="http://lattes.cnpq.br/image/layout_set_logo?img_id=14055&t=1588186121214" alt="Diretório dos Grupos de Pesquisa" class="inline-image" />
           </a>
         {%- else -%}
         <dd>

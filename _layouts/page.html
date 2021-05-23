@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 ---
 {%- assign slug = page.name | split: "." | first -%}
 {%- assign members = site.person | sort: "givenName" | sort: "familyName" -%}
@@ -33,10 +33,6 @@ layout: default
       </div>
     {% endif %}
     <div class="page-title">
-    {% if page.date %}
-      <p class="date">Última atualização: {{ page.date | date: "%e %B %Y" }}</p>
-    {% endif %}
-      <h1 class="post-title">{{ page.title | escape }}</h1>
     </div>
     <dl>
       {% for link in page.sameAs %}

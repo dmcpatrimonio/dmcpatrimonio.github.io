@@ -6,6 +6,7 @@ filters:
 - citeproc
 metadata:
   crossrefYaml         : "_spec/crossref.yaml"
+  suppress-bibliography: true
 reference-links        : true
 resource-path:
 - .

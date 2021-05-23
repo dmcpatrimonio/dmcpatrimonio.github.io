@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Equipe"
+    url  : /team/
+  - title: "Linhas"
+    url  : /linhas/
+  - title: "Produção"
+    url  : /biblio/
+  - title: "Histórico"
+    url  : /about/
