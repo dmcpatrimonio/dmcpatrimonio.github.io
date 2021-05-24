@@ -9,7 +9,7 @@ header:
 parentOrganization: patrimonio
 sameAs: 
 tags:
-description: >-
+excerpt: >-
   Por "arquitetura impressa" passa-se a entender a documentação,
   imagética ou por escrito, relativa à produção da arquitetura, desde os
   tempos antigos. Em "A History of Architectural Theory " from Vitrivius

@@ -9,7 +9,7 @@ header:
 parentOrganization: patrimonio
 sameAs: 
 tags:
-description: >-
+excerpt: >-
   As pesquisas visam a colaborar com o avanço das discussões sobre os
   desafios da conservação e reabilitação das edificações caracterizadas
   como Patrimônio Moderno. Neste sentido, busca pesquisar ferramentas e

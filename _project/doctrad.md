@@ -9,7 +9,7 @@ header:
 parentOrganization: construcao
 sameAs: 
 tags:
-description: >-
+excerpt: >-
   Abordagens interdisciplinares na documentação, conservação e
   valorização do patrimônio cultural, com foco na arquitetura
   tradicional do interior continental do Brasil e na construção moderna.

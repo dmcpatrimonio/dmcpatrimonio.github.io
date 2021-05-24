@@ -2,7 +2,7 @@
 title: "Tainá Lourenço de Abreu"
 author: Tainá Lourenço de Abreu
 identifier: 0000-0002-0167-6024
-image: 
+
 sameAs:
 - name: CNPq
   url: 3323229615714709

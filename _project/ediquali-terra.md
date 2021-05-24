@@ -9,7 +9,7 @@ header:
 parentOrganization: construcao
 sameAs: 
 tags:
-description: >-
+excerpt: >-
   Edificação e Qualificação em Arquitetura de Terra. Análises, estudos,
   ensaios experimentais de componentes e elementos construtivos
   produzidos a partir do solo natural para o desenvolvimento e

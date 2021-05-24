@@ -18,7 +18,7 @@ startDate: 2018-06-18
 sameAs:
 - name: Site do projeto
   url: https://dmcpatrimonio.github.io/arqtrad
-description: >-
+excerpt: >-
   Este projeto de pesquisa versa sobre a produção arquitetônica e
   urbanística de 1860 a 1930, com ênfase na formação dos campos de
   conhecimento brasileiros compreendidos em suas relações internacionais,

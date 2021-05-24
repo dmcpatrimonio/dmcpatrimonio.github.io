@@ -2,7 +2,7 @@
 title: "Ana Carolina Canuto Streletcki"
 author: Ana Carolina Canuto Streletcki
 identifier: 0000-0001-9457-9962
-image: 
+
 sameAs:
 - name: CNPq
   url: 3571185853081940

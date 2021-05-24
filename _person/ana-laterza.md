@@ -2,7 +2,7 @@
 title: "Ana Laterza"
 author: Ana Laterza
 identifier: 
-image: 
+
 sameAs:
 - name: CNPq
   url: 9195960010331870

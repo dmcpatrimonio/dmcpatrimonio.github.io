@@ -2,7 +2,7 @@
 title: "Iriani Jéssica Pinto  Gangá"
 author: Iriani Jéssica Pinto  Gangá
 identifier: 0000-0001-5942-9459
-image: 
+
 sameAs:
 - name: CNPq
   url: 8596533347836400

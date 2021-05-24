@@ -2,7 +2,7 @@
 title: "Mariana de Fátima Macedo Nunes de Azevedo"
 author: Mariana de Fátima Macedo Nunes de Azevedo
 identifier: 0000-0003-0476-6962
-image: 
+
 sameAs:
 - name: CNPq
   url: 4452882297765384
