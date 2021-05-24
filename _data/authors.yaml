@@ -12,8 +12,6 @@ Ana Carolina Canuto Streletcki:
   - label: "DGP"
     icon: "fa fa-share-alt"
     url: "http://dgp.cnpq.br/dgp/espelhorh/3571185853081940"
-  email: 
-  telephone: 
   bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
@@ -67,8 +65,6 @@ Ana Cristina Menezes Palhas:
   - label: "DGP"
     icon: "fa fa-share-alt"
     url: "http://dgp.cnpq.br/dgp/espelhorh/3592954989404809"
-  email: 
-  telephone: 
   bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
@@ -84,8 +80,10 @@ Ana Elisabete de Almeida Medeiros:
   name: "Ana Elisabete de Almeida Medeiros"
   familyName: "Medeiros"
   givenName: "Ana Elisabete de Almeida"
-  identifier: 0000-0003-3248-4399
   links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0003-3248-4399"
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/1766107518538219"
@@ -158,8 +156,6 @@ Ana Luísa Pires Pedreira:
   - label: "DGP"
     icon: "fa fa-share-alt"
     url: "http://dgp.cnpq.br/dgp/espelhorh/1044655749746705"
-  email: 
-  telephone: 
   bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
@@ -202,7 +198,6 @@ Andressa Pinheiro Constanti:
   name: "Andressa Pinheiro Constanti"
   familyName: "Constanti"
   givenName: "Andressa Pinheiro"
-  identifier: 
   links:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
@@ -281,8 +276,10 @@ Camila de Queiroz Pimentel Lopes:
   name: "Camila de Queiroz Pimentel Lopes"
   familyName: "Pimentel Lopes"
   givenName: "Camila de Queiroz"
-  identifier: 0000-0003-3446-3321
   links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0003-3446-3321"
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3613601942031627"
@@ -1122,8 +1119,10 @@ Marina Martins Mennucci:
   name: "Marina Martins Mennucci"
   familyName: "Mennucci"
   givenName: "Marina Martins"
-  identifier: 0000-0001-7188-6804
   links:
+  - label: "ORCID"
+    icon: "ai ai-orcid"
+    url: "https://orcid.org/0000-0001-7188-6804"
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6034384622174097"
@@ -1181,7 +1180,6 @@ Octávio Scapin:
   name: "Octávio Scapin"
   familyName: "Scapin"
   givenName: "Octávio"
-  identifier: 
   links:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
@@ -1342,7 +1340,6 @@ Sylvio Carneiro de Farias:
   familyName: "Farias"
   givenName: "Sylvio Carneiro"
   additionalName: "de"
-  identifier:
   avatar: "http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4990056H1"
   links:
   - label: "CV Lattes"
