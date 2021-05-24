@@ -1,8 +1,5 @@
 ---
-title: "Pedro Paulo Palazzo"
 author: Pedro Paulo Palazzo
-identifier: 0000-0002-0187-774X
-image: https://avatars3.githubusercontent.com/u/8295666
 sameAs:
 - name: CNPq
   url: 5767592881382885

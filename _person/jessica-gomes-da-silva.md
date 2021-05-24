@@ -1,11 +1,5 @@
 ---
-title: "Jéssica Gomes da Silva"
 author: Jéssica Gomes da Silva
-identifier: 0000-0001-7897-8365
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8015412D9
-sameAs:
-- name: CNPq
-  url: 0912215531218305
 affiliation:
 - Organization: dmcpatrimonio
   Role:

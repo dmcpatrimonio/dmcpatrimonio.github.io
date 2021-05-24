@@ -1,11 +1,5 @@
 ---
-title: "Anabel Sousa Lima"
 author: Anabel Sousa Lima
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8964107H1
-sameAs:
-- name: CNPq
-  url: 3621618123558315
 affiliation:
 - Organization: dmcpatrimonio
   Role:

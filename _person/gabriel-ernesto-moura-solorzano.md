@@ -1,10 +1,5 @@
 ---
-title: "Gabriel Ernesto Moura Solórzano"
 author: Gabriel Ernesto Moura Solórzano
-identifier: 0000-0002-4078-7579
-sameAs:
-- name: CNPq
-  url: 045857357323086
 affiliation:
 - Organization: dmcpatrimonio
   Role:

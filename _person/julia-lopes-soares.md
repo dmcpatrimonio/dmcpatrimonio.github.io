@@ -1,11 +1,5 @@
 ---
-title: "Júlia Lopes Soares"
 author: Júlia Lopes Soares
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2708940D5
-sameAs:
-- name: CNPq
-  url: 4841935310477525
 affiliation:
 - Organization: dmcpatrimonio
   Role:

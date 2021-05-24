@@ -1,11 +1,5 @@
 ---
-title: "Geovanna Brasil de Carvalho"
 author: Geovanna Brasil de Carvalho
-identifier: 0000-0001-9078-2234
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8284190T3
-sameAs:
-- name: CNPq
-  url: 2320980392832586
 affiliation:
 - Organization: dmcpatrimonio
   Role:

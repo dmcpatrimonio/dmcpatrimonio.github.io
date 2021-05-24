@@ -1,11 +1,5 @@
 ---
-title: "Barbosa Carlos Lázaro Rocha"
 author: Barbosa Carlos Lázaro Rocha
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2706630Y6
-sameAs:
-- name: CNPq
-  url: 6281420279377453
 affiliation:
 - Organization: dmcpatrimonio
   Role:

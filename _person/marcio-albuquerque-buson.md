@@ -1,11 +1,5 @@
 ---
-title: "Márcio Albuquerque Buson"
 author: Márcio Albuquerque Buson
-identifier: 0000-0002-4221-6673
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4701762U1
-sameAs:
-- name: CNPq
-  url: 6313415782219480
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Mariana Freitas Priester"
 author: Mariana Freitas Priester
-identifier: 0000-0002-6986-8241
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4302467A8
-sameAs:
-- name: CNPq
-  url: 8330012320209722
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Luiza Silveira  Gasser"
 author: Luiza Silveira  Gasser
-identifier: 0000-0002-8625-6837
-
-sameAs:
-- name: CNPq
-  url: 0173440372493928
 affiliation:
 - Organization: dmcpatrimonio
   Role:

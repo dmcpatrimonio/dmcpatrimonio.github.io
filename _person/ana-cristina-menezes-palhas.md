@@ -1,12 +1,5 @@
 ---
-title: "Ana Cristina Menezes Palhas"
 author: Ana Cristina Menezes Palhas
-identifier: 0000-0002-0767-3801
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2189942T2
-sameAs:
-- name: CNPq
-  url: 3592954989404809
-email: 
 affiliation:
 - Organization: dmcpatrimonio
   Role:

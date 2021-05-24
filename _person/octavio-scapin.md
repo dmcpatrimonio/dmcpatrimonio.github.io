@@ -1,10 +1,5 @@
 ---
-title: "Octávio Scapin"
 author: Octávio Scapin
-identifier: 
-sameAs:
-- name: CNPq
-  url: 3958322518141631
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Rick Hudson Castro"
 author: Rick Hudson Castro
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2154606U6
-sameAs:
-- name: CNPq
-  url: 3984516710546089
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Flávia Rosa de La Plata"
 author: Flávia Rosa de La Plata
-identifier: 0000-0002-8758-9692
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8640550E9
-sameAs:
-- name: CNPq
-  url: 3029180833677009
 affiliation:
 - Organization: dmcpatrimonio
   Role:

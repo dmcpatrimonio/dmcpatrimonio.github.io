@@ -1,10 +1,5 @@
 ---
-title: "Ana Elisabete de Almeida Medeiros"
 author: Ana Elisabete de Almeida Medeiros
-identifier: 0000-0003-3248-4399
-sameAs:
-- name: CNPq
-  url: 1766107518538219
 affiliation:
 - Organization: dmcpatrimonio
   Role:

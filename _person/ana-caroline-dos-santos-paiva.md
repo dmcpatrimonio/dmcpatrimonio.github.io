@@ -1,11 +1,5 @@
 ---
-title: "Ana Caroline dos Santos Paiva"
 author: Ana Caroline dos Santos Paiva
-identifier: 0000-0003-4299-6291
-
-sameAs:
-- name: CNPq
-  url: 3443287356411632
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,10 +1,5 @@
 ---
-title: "Renan Balzani"
 author: Renan Balzani
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4462038U7
-sameAs:
-- name: CNPq
-  url: 4419728092677611
 affiliation:
 - Organization: dmcpatrimonio
   Role:

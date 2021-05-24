@@ -1,10 +1,5 @@
 ---
-title: "Marina Martins Mennucci"
 author: Marina Martins Mennucci
-identifier: 0000-0001-7188-6804
-sameAs:
-- name: CNPq
-  url: 6034384622174097
 affiliation:
 - Organization: dmcpatrimonio
   Role:

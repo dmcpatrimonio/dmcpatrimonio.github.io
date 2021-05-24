@@ -1,11 +1,5 @@
 ---
-title: "Leonardo Campos Barreto"
 author: Leonardo Campos Barreto
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8144203E5
-sameAs:
-- name: CNPq
-  url: 7624811424168022
 affiliation:
 - Organization: dmcpatrimonio
   Role:

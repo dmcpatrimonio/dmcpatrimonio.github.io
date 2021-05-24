@@ -1,10 +1,5 @@
 ---
-title: "Andressa Pinheiro Constanti"
 author: Andressa Pinheiro Constanti
-identifier: 
-sameAs:
-- name: CNPq
-  url: 3938706916241036
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Luís Flávio Bazácas Snel"
 author: Luís Flávio Bazácas Snel
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8034690D6
-sameAs:
-- name: CNPq
-  url: 3029258172348123
 affiliation:
 - Organization: dmcpatrimonio
   Role:

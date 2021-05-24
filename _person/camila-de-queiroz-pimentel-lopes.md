@@ -1,10 +1,5 @@
 ---
-title: "Camila de Queiroz Pimentel Lopes"
 author: Camila de Queiroz Pimentel Lopes
-identifier: 0000-0003-3446-3321
-sameAs:
-- name: CNPq
-  url: 3613601942031627
 affiliation:
 - Organization: dmcpatrimonio
   Role:

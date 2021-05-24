@@ -1,11 +1,5 @@
 ---
-title: "Maria Clara Filgueiras Lima Gabriele"
 author: Maria Clara Filgueiras Lima Gabriele
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4890420E0
-sameAs:
-- name: CNPq
-  url: 7705275137902122
 affiliation:
 - Organization: dmcpatrimonio
   Role:

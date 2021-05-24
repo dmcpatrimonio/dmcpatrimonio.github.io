@@ -1,11 +1,5 @@
 ---
-title: "Gabriel Montenegro Passos Pires"
 author: Gabriel Montenegro Passos Pires
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8034206Y6
-sameAs:
-- name: CNPq
-  url: 7967230592941800
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,11 +1,5 @@
 ---
-title: "Bruna Barbosa de Lima"
 author: Bruna Barbosa de Lima
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4418070Y1
-sameAs:
-- name: CNPq
-  url: 5346306944978790
 affiliation:
 - Organization: dmcpatrimonio
   Role:

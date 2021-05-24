@@ -1,11 +1,5 @@
 ---
-title: "Ana Laterza"
 author: Ana Laterza
-identifier: 
-
-sameAs:
-- name: CNPq
-  url: 9195960010331870
 affiliation:
 - Organization: dmcpatrimonio
   Role:

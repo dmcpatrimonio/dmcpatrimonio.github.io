@@ -1,11 +1,5 @@
 ---
-title: "Iriani Jéssica Pinto  Gangá"
 author: Iriani Jéssica Pinto  Gangá
-identifier: 0000-0001-5942-9459
-
-sameAs:
-- name: CNPq
-  url: 8596533347836400
 affiliation:
 - Organization: dmcpatrimonio
   Role:

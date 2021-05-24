@@ -1,11 +1,5 @@
 ---
-title: "Juliane Porto Cruz"
 author: Juliane Porto Cruz
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4343962P6
-sameAs:
-- name: CNPq
-  url: 1684851292993227
 affiliation:
 - Organization: dmcpatrimonio
   Role:
