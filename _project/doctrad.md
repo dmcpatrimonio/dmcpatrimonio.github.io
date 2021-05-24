@@ -1,11 +1,14 @@
 ---
 title: "Documentação e modelagem da arquitetura tradicional"
 identifier: doctrad
-image:
-logo:
+header:
+  image:
+  image_description:
+  caption:
+  og_image:
 parentOrganization: construcao
 sameAs: 
-keywords:
+tags:
 description: >-
   Abordagens interdisciplinares na documentação, conservação e
   valorização do patrimônio cultural, com foco na arquitetura

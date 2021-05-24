@@ -1,11 +1,14 @@
 ---
 title: "Avaliação do estado de conservação do patrimônio moderno"
 identifier: conserva-moderno
-image:
-logo:
+header:
+  image:
+  image_description:
+  caption:
+  og_image:
 parentOrganization: patrimonio
 sameAs: 
-keywords:
+tags:
 description: >-
   As pesquisas visam a colaborar com o avanço das discussões sobre os
   desafios da conservação e reabilitação das edificações caracterizadas

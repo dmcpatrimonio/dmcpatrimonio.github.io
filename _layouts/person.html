@@ -1,49 +1,7 @@
 ---
 layout: single
 ---
-{% assign page.title = page.givenName | append: " " | append: page.additionalName | append: " " | append: page.familyName %}
 <article itemscope itemtype="http://schema.org/Person" class="person">
-
-  <header class="post-header">
-    {% if page.image %}
-      <div class="align-right">
-        <img title="{{ page.title }}" alt="Imagem pessoal" src="{{ page.image }}" />
-      </div>
-    {% endif %}
-    <dl>
-      {% if page.identifier %}
-        <dd>
-          <a itemprop="identifier" content="https://orcid.org/{{ page.identifier }}" href="https://orcid.org/{{ page.identifier }}" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;">
-            <i class="ai ai-orcid"></i>
-            https://orcid.org/{{ page.identifier }}
-          </a>
-        </dd>
-      {% endif %}
-      {% for link in page.sameAs %}
-        {%- if link.name == "CNPq" -%}
-        <dd>
-        <a itemprop="sameAs" content="http://lattes.cnpq.br/{{ link.url }}" href="http://lattes.cnpq.br/{{ link.url }}" title="Currículo Lattes">
-          <i class="ai ai-lattes"></i> http://lattes.cnpq.br/{{ link.url }}
-          </a>
-        </dd>
-        <dd>
-        <a itemprop="sameAs" content="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" href="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" title="Diretório dos Grupos de Pesquisa">
-          <img src="http://lattes.cnpq.br/image/layout_set_logo?img_id=14055&t=1588186121214" alt="Diretório dos Grupos de Pesquisa" class="inline-image" />
-          </a>
-        {%- else -%}
-        <dd>
-        <a itemprop="sameAs" content="{{ link.url }}" href="{{ link.url }}" title="{{ link.name }}">
-          {%- if link.image -%}
-          <img src="{{ link.image }}" alt="{{ link.name }}" />
-          {%- else -%}
-          {{ link.name }}
-          {%- endif -%}
-          </a>
-        </dd>
-        {%- endif -%}
-      {% endfor %}
-    </dl>
-  </header>
 
   <div class="post-content">
     {% unless page.content %}

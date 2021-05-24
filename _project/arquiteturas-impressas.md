@@ -1,11 +1,14 @@
 ---
 title: "Arquiteturas impressas"
 identifier: arquiteturas impressas
-image:
-logo:
+header:
+  image:
+  image_description:
+  caption:
+  og_image:
 parentOrganization: patrimonio
 sameAs: 
-keywords:
+tags:
 description: >-
   Por "arquitetura impressa" passa-se a entender a documentação,
   imagética ou por escrito, relativa à produção da arquitetura, desde os

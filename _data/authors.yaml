@@ -9,8 +9,12 @@ Ana Carolina Canuto Streletcki:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3571185853081940"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3571185853081940"
   email: 
   telephone: 
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -33,6 +37,10 @@ Ana Caroline dos Santos Paiva:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3443287356411632"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3443287356411632"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -57,8 +65,12 @@ Ana Cristina Menezes Palhas:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3592954989404809"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3592954989404809"
   email: 
   telephone: 
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -78,8 +90,12 @@ Ana Elisabete de Almeida Medeiros:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/1766107518538219"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/1766107518538219"
   email: ana@unb.br
   telephone: 55 61 31 07 74 49
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -113,6 +129,10 @@ Ana Laterza:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/9195960010331870"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/9195960010331870"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -137,8 +157,12 @@ Ana Luísa Pires Pedreira:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/1044655749746705"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/1044655749746705"
   email: 
   telephone: 
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -161,6 +185,10 @@ Anabel Sousa Lima:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3621618123558315"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3621618123558315"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -181,6 +209,10 @@ Andressa Pinheiro Constanti:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3938706916241036"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3938706916241036"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -204,6 +236,10 @@ Anny Mori:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3738405277133982"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3738405277133982"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -227,6 +263,10 @@ Bruna Barbosa de Lima:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/5346306944978790"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/5346306944978790"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -248,6 +288,10 @@ Camila de Queiroz Pimentel Lopes:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3613601942031627"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3613601942031627"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -275,6 +319,10 @@ Barbosa Carlos Lázaro Rocha:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6281420279377453"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6281420279377453"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -298,6 +346,10 @@ Daniela Matias  Xavier:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6880371959324159"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6880371959324159"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -322,6 +374,10 @@ Eduardo Oliveira Soares:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/0250622037480155"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/0250622037480155"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -344,6 +400,10 @@ Fernanda Reis Ribeiro:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/0530194203699911"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/0530194203699911"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -367,6 +427,10 @@ Flávia Rosa de La Plata:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3029180833677009"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3029180833677009"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -393,6 +457,9 @@ Gabriel Ernesto Moura Solórzano:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/045857357323086"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/045857357323086"
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -417,6 +484,10 @@ Gabriel Montenegro Passos Pires:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7967230592941800"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7967230592941800"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -440,6 +511,10 @@ Geovanna Brasil de Carvalho:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/2320980392832586"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/2320980392832586"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -466,6 +541,10 @@ Giselle Marie Cormier Chaim:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/5549930910780053"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/5549930910780053"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -489,6 +568,10 @@ Gledson Rodrigues do Nascimento:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7862771578861119"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7862771578861119"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -511,6 +594,10 @@ Ingrid Orlandi Meira:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7210654917855266"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7210654917855266"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -538,6 +625,10 @@ Iriani Jéssica Pinto  Gangá:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/8596533347836400"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/8596533347836400"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -563,6 +654,10 @@ Irina Alencar de Oliveira:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6535350966278993"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6535350966278993"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -586,6 +681,10 @@ Jéssica Gomes da Silva:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/0912215531218305"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/0912215531218305"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -615,6 +714,10 @@ João  Testi Neto:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/4426176176505648"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/4426176176505648"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -639,6 +742,10 @@ Júlia Lopes Soares:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/4841935310477525"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/4841935310477525"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -666,6 +773,10 @@ Juliane Porto Cruz:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/1684851292993227"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/1684851292993227"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -692,6 +803,10 @@ Laila Beatriz da Rocha Loddi:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7468794244623680"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7468794244623680"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -714,6 +829,10 @@ Laura Santos Siqueira:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/4602602448594327"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/4602602448594327"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -736,6 +855,10 @@ Leonardo Campos Barreto:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7624811424168022"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7624811424168022"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -758,6 +881,10 @@ Luana Alves Faria:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6505759309043943"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6505759309043943"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -780,6 +907,10 @@ Luís Flávio Bazácas Snel:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3029258172348123"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3029258172348123"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -799,6 +930,10 @@ Luiz Cláudio Gregório:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6182832712701372"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6182832712701372"
+  bio: '<i class="fa fa-graduation-cap"></i> Técnico'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -824,6 +959,10 @@ Luiza Silveira  Gasser:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/0173440372493928"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/0173440372493928"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -848,7 +987,11 @@ Márcio Albuquerque Buson:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6313415782219480"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6313415782219480"
   email: mbuson@unb.br
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -885,6 +1028,10 @@ Maria Clara Filgueiras Lima Gabriele:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/7705275137902122"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/7705275137902122"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -908,6 +1055,10 @@ Maria Isabela Alves de Araújo:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/2735374796963447"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/2735374796963447"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -933,6 +1084,10 @@ Mariana de Fátima Macedo Nunes de Azevedo:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/4452882297765384"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/4452882297765384"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -957,6 +1112,10 @@ Mariana Freitas Priester:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/8330012320209722"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/8330012320209722"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -976,6 +1135,10 @@ Marina Martins Mennucci:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6034384622174097"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6034384622174097"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1004,6 +1167,10 @@ Maritza Giacomazzi Dantas:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/6831094290582029"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/6831094290582029"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1027,6 +1194,10 @@ Octávio Scapin:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3958322518141631"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3958322518141631"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1043,19 +1214,38 @@ Pedro Paulo Palazzo:
   name: "Pedro Paulo Palazzo"
   familyName: "Palazzo"
   givenName: "Pedro Paulo"
+  bio: '<i class="fa fa-graduation-cap"></i> Líder'
   avatar: "https://avatars3.githubusercontent.com/u/8295666"
+  email: "palazzo@unb.br"
+  telephone: "+55 61 31 07 74 49"
   links:
   - label: "ORCID"
-    icon: "ai ai-orcid"
+    icon: "ai fa-fw ai-orcid"
     url: "https://orcid.org/0000-0002-0187-774X"
   - label: "CV Lattes"
-    icon: "ai ai-lattes"
+    icon: "ai fa-fw ai-lattes"
     url: "http://lattes.cnpq.br/5767592881382885"
-  - name: Site pessoal
-    image:
-    url: https://p3palazzo.github.io
-  email: palazzo@unb.br
-  telephone: 55 61 31 07 74 49
+  - label: "DGP"
+    icon: "fa fa-fw fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/5767592881382885"
+  - label: "Ciência Vitæ"
+    icon: "ai fa-fw ai-ciencia-vitae"
+    url: "https://www.cienciavitae.pt//pt/D91E-0C60-B56B"
+  - label: "Academia.edu"
+    icon: "ai fa-fw ai-academia"
+    url: "https://unb.academia.edu/PedroPalazzo"
+  - label: "ResearchGate"
+    icon: "ai fa-fw ai-researchgate"
+    url: "https://www.researchgate.net/profile/Pedro-Palazzo"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/p3palazzo"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://linkedin.com/in/p3palazzo"
+  - label: "+55 61 31 07 74 49"
+    icon: "fas fa-fw fa-phone-square-alt"
+    url: "tel:+5561-3107-7449"
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1089,6 +1279,10 @@ Renan Balzani:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/4419728092677611"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/4419728092677611"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1111,6 +1305,10 @@ Rick Hudson Castro:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3984516710546089"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3984516710546089"
+  bio: '<i class="fa fa-graduation-cap"></i> Pesquisador'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1133,6 +1331,10 @@ Sarah da Silva Almeida:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/8028408167525138"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/8028408167525138"
+  bio: '<i class="fa fa-graduation-cap"></i> Mestrado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1154,6 +1356,10 @@ Sylvio Carneiro de Farias:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/5477484297623365"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/5477484297623365"
+  bio: '<i class="fa fa-graduation-cap"></i> Doutorado'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1176,6 +1382,10 @@ Tainá Brederode Sihler Rossi:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/0047142055385846"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/0047142055385846"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1199,6 +1409,10 @@ Tainá Lourenço de Abreu:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/3323229615714709"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/3323229615714709"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1223,7 +1437,11 @@ Vanda Alice Garcia Zanoni:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/9313626132229535"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/9313626132229535"
   email: vandazanoni@unb.br
+  bio: '<i class="fa fa-graduation-cap"></i> Líder'
   affiliation:
   - Organization: dmcpatrimonio
     Role:
@@ -1252,6 +1470,10 @@ Vanessa Silva Botelho:
   - label: "CV Lattes"
     icon: "ai ai-lattes"
     url: "http://lattes.cnpq.br/9299414257919438"
+  - label: "DGP"
+    icon: "fa fa-share-alt"
+    url: "http://dgp.cnpq.br/dgp/espelhorh/9299414257919438"
+  bio: '<i class="fa fa-graduation-cap"></i> Graduação'
   affiliation:
   - Organization: dmcpatrimonio
     Role:

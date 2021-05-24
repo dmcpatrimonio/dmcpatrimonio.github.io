@@ -8,8 +8,11 @@ grant:
     value: 4800
   description: "1 bolsa de iniciação científica 2020–2021"
   funder: "CNPq"
-image: https://avatars3.githubusercontent.com/t/3543678
-logo:
+header:
+  image: https://avatars3.githubusercontent.com/t/3543678
+  image_description:
+  caption:
+  og_image:
 parentOrganization: patrimonio
 startDate: 2018-06-18
 sameAs:
@@ -22,7 +25,7 @@ description: >-
   especialmente com Portugal. O fio condutor da pesquisa é a tensão entre
   a continuidade das práticas vernáculas herdadas da tradição portuguesa
   e a difusão de conhecimentos eruditos e cosmopolitas.
-keywords:
+tags:
 - Arquitetura tradicional
 - Ecletismo
 - Neocolonial
