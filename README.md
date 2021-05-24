@@ -1,6 +1,6 @@
 # Documentação, Modelagem e Conservação do Patrimônio #
 
-![Verifica estado do site](https://github.com/dmcpatrimonio/arqtrad/workflows/Website/badge.svg?branch=master)
+![](https://github.com/dmcpatrimonio/arqtrad/workflows/Website/badge.svg?branch=master)
 
 Site do grupo de pesquisa. Usamos:
 
@@ -10,6 +10,19 @@ Site do grupo de pesquisa. Usamos:
 
 ## Como atualizar este site ##
 
+Antes de mais nada, crie uma conta no [GitHub](https://github.com) e
+informe aos líderes do grupo o seu nome de login. Os líderes vão lhe
+enviar um convite para se tornar membro da equipe e poder editar este
+site — preste atenção às suas notificações nesta plataforma!
+
+> :wink: Dica: cadastre-se com o e-mail institucional da sua
+> universidade para desbloquear recursos adicionais como repositórios
+> privados :bangbang: Se você já se cadastrou com outro e-mail, pode
+> adicionar o endereço institucional clicando no seu ícone no alto à
+> direita desta tela, depois `Settings > Email`.
+
+Depois de aceitar o convite dos líderes, você poderá começar a propor
+edições neste e noutros repositórios do grupo de pesquisa.
 Após atualizar qualquer página, o site leva alguns minutos para ser
 atualizado. Instruções específicas:
 
@@ -20,9 +33,12 @@ atualizado. Instruções específicas:
 3. [Novo projeto de pesquisa](#novo-projeto-de-pesquisa)
 4. [Nova produção bibliográfica ou técnica](#nova-produção-bibliográfica-ou-técnica)
 
+Para editar dados existentes, siga as mesmas instruções mas localize as
+páginas e os registros existentes em vez de criar novos.
+
 * * * *
 
-### Notícias e outras postagens ###
+## Notícias e outras postagens ##
 
 Crie uma página no endereço
 [`_posts/2021-02-28-titulo-resumido.md`](_posts/) seguindo o modelo
@@ -42,6 +58,8 @@ tal como cadastrado no arquivo [`_data/authors.yaml`](_data/authors.yaml)
 ``` markdown
 ---
 title: Título completo do post numa linha só
+# O nome do autor abaixo deve ser idêntico ao cadastrado
+# conforme instruções da seção 'Novo membro'
 author: Nome do autor
 date: 2021-02-28
 ---
@@ -93,9 +111,9 @@ e
 [formatação](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/)
 estão explicados na documentação do Template.
 
-### Novo membro ###
+## Novo membro ##
 
-#### Primeiro passo ####
+### Primeiro passo ###
 
 Incluir os dados do membro no arquivo
 [`_data/authors.yaml`](data/authors.yaml) segundo o modelo abaixo. Não é
@@ -111,27 +129,32 @@ Pedro Paulo Palazzo de Almeida:
   name: "Pedro Paulo Palazzo de Almeida"
   familyName: "Almeida"
   givenName: "Pedro Paulo Palazzo"
-  additionalName: "de" # Eliminar esta linha se não houver partícula.
+  additionalName: "de" # Apagar esta linha se não houver partícula.
   # A bio indica apenas a sua vinculação ao grupo. Altere apenas
   # a última palavra da linha para indicar a sua função em andamento:
   # Líder, Pesquisador(a), Pós-doutorado, Doutorado, Mestrado
   # ou Graduação. Não apague a aspa simples (') no fim da linha.
   bio: '<i class="fa fa-graduation-cap"></i> Líder'
+  # Apagar a linha abaixo se não quiser foto.
   avatar: "https://avatars3.githubusercontent.com/u/8295666"
   # Atenção: cadastre e-mail e telefone apenas se desejar que
   # eles sejam divulgados publicamente! Caso contrário, apague
-  # as respectivas linhas
+  # as respectivas linhas.
   email: "palazzo@unb.br"
   telephone: "+55 61 31 07 74 49"
   links:
     # Apague os itens que não deseja publicar (apague as três
     # linhas de cada registro de uma vez!)
+    # Por favor, preencha no mínimo ORCID, Lattes e DGP.
   - label: "ORCID"
     icon : "ai fa-fw ai-orcid"
     url  : "https://orcid.org/0000-0002-0187-774X"
   - label: "CV Lattes"
     icon : "ai fa-fw ai-lattes"
     url  : "http://lattes.cnpq.br/5767592881382885"
+    # Use sempre a forma estática do link Lattes (é aquela que
+    # aparece ao lado da sua foto, quando abrir o curriculum
+    # completo).
   - label: "DGP"
     icon : "fa fa-fw fa-share-alt"
     url  : "http://dgp.cnpq.br/dgp/espelhorh/5767592881382885"
@@ -187,15 +210,15 @@ Pedro Paulo Palazzo de Almeida:
 
 </details>
 
-Observe a indentação com dois espaços. Na dúvida, copie e cole o modelo
-acima, e então edite os campos apropriados. Para incluir links não
-listados acima, veja os ícones disponíveis em
-[Academicons](http://jpswalsh.github.io/academicons/).
+Observe a indentação de cada linha com dois ou quatro espaços. Na
+dúvida, copie e cole o modelo acima, e então edite os campos
+apropriados. Para incluir links não listados acima, veja os ícones
+disponíveis em [Academicons](http://jpswalsh.github.io/academicons/).
 
 :warning: Lembre-se: cadastre somente as informações que você deseja que
 se tornem públicas! O site será visível para o mundo todo.
 
-#### Segundo passo ####
+### Segundo passo ###
 
 Criar uma página no endereço [`_person/nome-da-pessoa.md`](_person/)
 contendo o texto seguinte:
@@ -205,9 +228,12 @@ contendo o texto seguinte:
 
 ``` yaml
 ---
-title: Pedro Paulo Palazzo de Almeida # Nome da pessoa idêntico ao do cadastro acima
-author: Pedro Paulo Palazzo de Almeida # Repetir o nome idêntico
+# O campo 'author' deve ter o nome completo idêntico ao do
+# cadastro no arquivo _data/authors.yaml
+author: Pedro Paulo Palazzo de Almeida
 affiliation:
+# Os registros sob o dicionário 'affiliation' indicam a
+# vinculação a projetos de pesquisa.
 - Organization: dmcpatrimonio
   Role:
   - name: Líder
@@ -226,15 +252,22 @@ affiliation:
     startDate: 2016-09-01
     endDate: 2020-05-04
 worksFor:
+# Os registros do dicionário 'worksFor' se referem a
+# vínculos institucionais/empregatícios relevantes.
 - Organization: Universidade de Brasília
   department: Departamento de Teoria e História da Arquitetura e do Urbanismo
   Role:
   - name: Professor Adjunto
     startDate: 2015-11-30
+nocite: >- # Produção bibliográfica da pessoa, separadas por vírgulas
+  @palazzo:2018accouplement,
+  @palazzo:2018gis,
+  @palazzo:2020relacoes
 ---
 
-Inserir aqui o resumo do CV Lattes ou outro breve texto de apresentação
-da pessoa.
+Inserir aqui o resumo do CV Lattes ou outro breve texto de
+apresentação da pessoa. Pode usar formatação Markdown conforme
+explicado mais acima.
 
 ```
 
@@ -248,7 +281,7 @@ será `_person/joao-cancado-dors.md`. O texto do resumo pode ser
 formatado usando Markdown, conforme explicado na seção [Notícias e
 outras postagens](#notícias-e-outras-postagens) acima.
 
-### Novo projeto de pesquisa ###
+## Novo projeto de pesquisa ##
 
 Criar uma página no endereço [`_project/nome-do-projeto.md`](_project/)
 com o conteúdo do modelo a seguir; editar os campos conforme apropriado.
@@ -277,10 +310,18 @@ header: # Seção opcional, caso haja uma imagem representativa do projeto.
   image_description: "Foto antiga da avenida Rio Branco mostrando edifícios ecléticos"
   caption: "Foto: Augusto Malta, acervo IMS/Brasiliana Fotográfica"
   og_image: # Imagem menor, para compartilhamento em redes sociais
+excerpt: >-
+  Breve descrição do projeto de pesquisa (uma ou duas frases).
+  Esta descrição não aparece na página, mas é importante
+  para mecanismos de busca.
 nocite: >- # Produção bibliográfica decorrente, separada por vírgulas
   @palazzo:2018accouplement,
   @solorzano:2019relacoes
 ---
+
+Escrever uma breve descrição dos objetivos do projeto e outras
+informações relevantes. Pode formatar usando Markdown.
+
 ```
 
 </details>
@@ -288,7 +329,7 @@ nocite: >- # Produção bibliográfica decorrente, separada por vírgulas
 O código da linha de pesquisa é o campo `identifier` na respectiva
 página, localizada na pasta [`_organization`](_organization/).
 
-### Nova produção bibliográfica ou técnica ###
+## Nova produção bibliográfica ou técnica ##
 
 A definir como vamos colaborar no cadastramento de bibliografia:
 Mendeley ou Zotero?

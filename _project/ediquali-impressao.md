@@ -1,5 +1,6 @@
 ---
 title: "Ediquali impressão 3D - Processo construtivo com argamassa de terra impressa"
+author: Márcio Albuquerque Buson
 identifier: ediquali-impressao
 header:
   image:

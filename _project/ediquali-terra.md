@@ -1,5 +1,6 @@
 ---
 title: "Ediquali terra - Desenvolvimento e aperfeiçoamento de materiais, componentes, técnicas, sistemas e processos construtivos"
+author: Márcio Albuquerque Buson
 identifier: ediquali-terra
 header:
   image:

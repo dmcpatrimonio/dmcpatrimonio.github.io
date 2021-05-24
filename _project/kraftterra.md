@@ -1,5 +1,6 @@
 ---
 title: "Kraftterra"
+author: Márcio Albuquerque Buson
 identifier: kraftterra
 header:
   image:

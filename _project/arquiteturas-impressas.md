@@ -1,5 +1,6 @@
 ---
 title: "Arquiteturas impressas"
+author: Ana Elisabete de Almeida Medeiros
 identifier: arquiteturas impressas
 header:
   image:

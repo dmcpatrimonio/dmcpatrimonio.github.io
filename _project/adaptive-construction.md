@@ -1,5 +1,6 @@
 ---
 title : "Resiliência urbana: estratégias adaptativas na construção tradicional"
+author: Pedro Paulo Palazzo
 excerpt: |
   Este projeto de pesquisa investiga a ocorrência de sistemas de ordem
   emergente na construção moderna brasileira — da segunda metade do

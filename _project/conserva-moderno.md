@@ -1,5 +1,6 @@
 ---
 title: "Avaliação do estado de conservação do patrimônio moderno"
+author: Vanda Alice Garcia Zanoni
 identifier: conserva-moderno
 header:
   image:

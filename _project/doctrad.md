@@ -1,5 +1,6 @@
 ---
 title: "Documentação e modelagem da arquitetura tradicional"
+author: Pedro Paulo Palazzo
 identifier: doctrad
 header:
   image:
