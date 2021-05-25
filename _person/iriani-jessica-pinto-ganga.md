@@ -1,12 +1,5 @@
 ---
-familyName: Gangá
-givenName: Iriani Jéssica Pinto
-additionalName: 
-identifier: 0000-0001-5942-9459
-image: 
-sameAs:
-- name: CNPq
-  url: 8596533347836400
+author: Iriani Jéssica Pinto  Gangá
 affiliation:
 - Organization: dmcpatrimonio
   Role:

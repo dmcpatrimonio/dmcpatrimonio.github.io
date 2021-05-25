@@ -1,11 +1,5 @@
 ---
-familyName: Mori
-givenName: Anny
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2705179D9
-sameAs:
-- name: CNPq
-  url: 3738405277133982
+author: Anny Mori
 affiliation:
 - Organization: dmcpatrimonio
   Role:

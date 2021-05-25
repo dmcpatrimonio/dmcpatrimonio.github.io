@@ -1,12 +1,6 @@
 ---
-familyName: Farias
-givenName: Sylvio Carneiro
-additionalName: de
+author: Sylvio Carneiro de Farias
 identifier:
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4990056H1
-sameAs:
-- name: CNPq
-  url: 5477484297623365
 affiliation:
 - Organization: dmcpatrimonio
   Role:

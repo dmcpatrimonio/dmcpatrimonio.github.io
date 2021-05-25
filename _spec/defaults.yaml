@@ -1,12 +1,19 @@
-fail-if-warnings: False
-file-scope      : True
+from                   : "markdown"
+data-dir               : "_lib"
+fail-if-warnings       : false
+file-scope             : true
 filters:
 - pandoc-crossref
 - citeproc
 metadata:
-  cssLabelSep   : "&ndash;"
-  figureTitle   : Figura
-  lang          : pt-BR
+  crossrefYaml         : "_spec/crossref.yaml"
   suppress-bibliography: true
-  tableTitle    : Tabela
-shift-heading-level-by: 1
+  csl                  : "_lib/chicago-cv.csl"
+  lang                 : "pt-BR"
+reference-links        : true
+resource-path:
+- .
+- "_csl"
+- "_spec"
+- "assets"
+shift-heading-level-by : 1

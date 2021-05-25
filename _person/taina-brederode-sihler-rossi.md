@@ -1,11 +1,5 @@
 ---
-familyName: Rossi
-givenName: Tainá Brederode Sihler
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8642587H7
-sameAs:
-- name: CNPq
-  url: 0047142055385846
+author: Tainá Brederode Sihler Rossi
 affiliation:
 - Organization: dmcpatrimonio
   Role:

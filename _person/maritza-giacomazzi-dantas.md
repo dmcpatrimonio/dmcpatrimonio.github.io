@@ -1,11 +1,5 @@
 ---
-familyName: Dantas
-givenName: Maritza Giacomazzi
-identifier: 0000-0002-8567-0390
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4458417U3
-sameAs:
-- name: CNPq
-  url: 6831094290582029
+author: Maritza Giacomazzi Dantas
 affiliation:
 - Organization: dmcpatrimonio
   Role:

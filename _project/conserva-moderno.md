@@ -1,12 +1,16 @@
 ---
 title: "Avaliação do estado de conservação do patrimônio moderno"
+author: Vanda Alice Garcia Zanoni
 identifier: conserva-moderno
-image:
-logo:
+header:
+  image:
+  image_description:
+  caption:
+  og_image:
 parentOrganization: patrimonio
 sameAs: 
-keywords:
-description: >-
+tags:
+excerpt: >-
   As pesquisas visam a colaborar com o avanço das discussões sobre os
   desafios da conservação e reabilitação das edificações caracterizadas
   como Patrimônio Moderno. Neste sentido, busca pesquisar ferramentas e

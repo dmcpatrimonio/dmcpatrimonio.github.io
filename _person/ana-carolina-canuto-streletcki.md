@@ -1,13 +1,5 @@
 ---
-familyName: Streletcki
-givenName: Ana Carolina Canuto
-identifier: 0000-0001-9457-9962
-image: 
-sameAs:
-- name: CNPq
-  url: 3571185853081940
-email: 
-telephone: 
+author: Ana Carolina Canuto Streletcki
 affiliation:
 - Organization: dmcpatrimonio
   Role:

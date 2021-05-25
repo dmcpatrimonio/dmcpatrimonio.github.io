@@ -1,12 +1,5 @@
 ---
-familyName: Abreu
-givenName: Tainá Lourenço
-additionalName: de
-identifier: 0000-0002-0167-6024
-image: 
-sameAs:
-- name: CNPq
-  url: 3323229615714709
+author: Tainá Lourenço de Abreu
 affiliation:
 - Organization: dmcpatrimonio
   Role:

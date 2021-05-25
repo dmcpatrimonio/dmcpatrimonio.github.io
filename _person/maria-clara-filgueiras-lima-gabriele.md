@@ -1,11 +1,5 @@
 ---
-familyName: Gabriele
-givenName: Maria Clara Filgueiras Lima
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4890420E0
-sameAs:
-- name: CNPq
-  url: 7705275137902122
+author: Maria Clara Filgueiras Lima Gabriele
 affiliation:
 - Organization: dmcpatrimonio
   Role:

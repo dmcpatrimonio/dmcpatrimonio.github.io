@@ -8,9 +8,9 @@ tags: [relatório, 2017, 2018, 2019, 2020]
 suppress-bibliography: true
 ---
 
-## Destaques ##
+# Destaques #
 
-### Teses e dissertações com produção derivada ###
+## Teses e dissertações com produção derivada ##
 
 2020
 : [@pereira:2020arquitetura]
@@ -40,7 +40,7 @@ suppress-bibliography: true
 
 2018
 
-### Produção intelectual docente ###
+## Produção intelectual docente ##
 
 2020
 : [-@palazzo:2020literary32]. Qualis B2 internacional
@@ -68,7 +68,7 @@ suppress-bibliography: true
   apropriações do conceito de tradição em diferentes regiões no final do
   século XIX e início do XX.
 
-### Produção intelectual discente ###
+## Produção intelectual discente ##
 
 2020
 : [@palazzo:2020relacoes]. Qualis B2 nacional
@@ -81,11 +81,11 @@ suppress-bibliography: true
 
 2018
 
-### Produção intelectual de egressos ###
+## Produção intelectual de egressos ##
 
-### Prêmios e distinções ###
+## Prêmios e distinções ##
 
-## Indicadores ##
+# Indicadores #
 
 | Docente          | Ministrou pelo menos 1 disciplina/ano | Orientações concluídas | Orientações em andamento | Projetos com discentes | Projetos com financiamento | Orientações que resultaram em publicações |
 |------------------|---------------------------------------|-----------------------:|-------------------------:|------------------------|----------------------------|-------------------------------------------|

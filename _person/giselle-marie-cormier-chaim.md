@@ -1,11 +1,5 @@
 ---
-familyName: Chaim
-givenName: Giselle Marie Cormier
-identifier: 0000-0002-5133-6968
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4426349P5
-sameAs:
-- name: CNPq
-  url: 5549930910780053
+author: Giselle Marie Cormier Chaim
 affiliation:
 - Organization: dmcpatrimonio
   Role:

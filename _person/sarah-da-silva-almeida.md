@@ -1,11 +1,5 @@
 ---
-familyName: Almeida
-givenName: Sarah da Silva
-identifier: 0000-0003-0413-9598
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8535733E6
-sameAs:
-- name: CNPq
-  url: 8028408167525138
+author: Sarah da Silva Almeida
 affiliation:
 - Organization: dmcpatrimonio
   Role:

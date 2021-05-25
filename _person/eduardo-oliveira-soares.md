@@ -1,11 +1,5 @@
 ---
-familyName: Soares
-givenName: Eduardo Oliveira
-identifier: 0000-0003-2655-8080
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4298856D4
-sameAs:
-- name: CNPq
-  url: 0250622037480155
+author: Eduardo Oliveira Soares
 affiliation:
 - Organization: dmcpatrimonio
   Role:

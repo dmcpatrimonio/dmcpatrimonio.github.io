@@ -1,11 +1,5 @@
 ---
-familyName: Lima
-givenName: Anabel Sousa
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8964107H1
-sameAs:
-- name: CNPq
-  url: 3621618123558315
+author: Anabel Sousa Lima
 affiliation:
 - Organization: dmcpatrimonio
   Role:

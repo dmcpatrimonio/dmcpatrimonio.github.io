@@ -5,17 +5,14 @@ department:
 - arquiteturas-impressas
 - classico-trad-ecletico
 - conserva-moderno
-image:
-logo:
 parentOrganization: linhas
-sameAs:
-keywords:
+tags:
 - Teoria e história da arquitetura
 - Patrimônio, cultura e identidade
 - Pesquisa qualitativa
 - Planalto Central
 - Brasília
-description: >-
+excerpt: >-
   Arquitetura tradicional e sua patrimonialização sob suas perspectivas
   histórica, social, tecnológica e ambiental. O patrimônio cultural do
   interior continental do Brasil, especialmente do planalto Central e de

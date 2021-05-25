@@ -1,10 +1,5 @@
 ---
-familyName: Scapin
-givenName: Octávio
-identifier: 
-sameAs:
-- name: CNPq
-  url: 3958322518141631
+author: Octávio Scapin
 affiliation:
 - Organization: dmcpatrimonio
   Role:

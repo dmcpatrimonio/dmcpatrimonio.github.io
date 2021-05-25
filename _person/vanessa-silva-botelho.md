@@ -1,11 +1,5 @@
 ---
-familyName: Botelho
-givenName: Vanessa Silva
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8175793P9
-sameAs:
-- name: CNPq
-  url: 9299414257919438
+author: Vanessa Silva Botelho
 affiliation:
 - Organization: dmcpatrimonio
   Role:

@@ -1,13 +1,5 @@
 ---
-familyName: Palhas
-givenName: Ana Cristina Menezes
-identifier: 0000-0002-0767-3801
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K2189942T2
-sameAs:
-- name: CNPq
-  url: 3592954989404809
-email: 
-telephone: 
+author: Ana Cristina Menezes Palhas
 affiliation:
 - Organization: dmcpatrimonio
   Role:

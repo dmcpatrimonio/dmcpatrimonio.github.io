@@ -1,10 +1,5 @@
 ---
-familyName: Balzani
-givenName: Renan
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4462038U7
-sameAs:
-- name: CNPq
-  url: 4419728092677611
+author: Renan Balzani
 affiliation:
 - Organization: dmcpatrimonio
   Role:

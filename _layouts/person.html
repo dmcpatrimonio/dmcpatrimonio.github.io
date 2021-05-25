@@ -1,53 +1,9 @@
 ---
-layout: default
+layout: single
 ---
-{% assign page.title = page.givenName | append: " " | append: page.additionalName | append: " " | append: page.familyName %}
-<article itemscope itemtype="http://schema.org/Person" class="person">
 
-  <header class="post-header">
-    {% if page.image %}
-      <div class="page-image">
-        <img title="{{ page.title }}" alt="Imagem pessoal" src="{{ page.image }}" />
-      </div>
-    {% endif %}
-    {% if page.date %}
-      <p class="date">Última atualização: {{ page.date | date: "%e %B %Y" }}</p>
-    {% endif %}
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    <dl>
-      {% if page.identifier %}
-        <dd>
-          <a itemprop="identifier" content="https://orcid.org/{{ page.identifier }}" href="https://orcid.org/{{ page.identifier }}" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;">
-            <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon" />
-            https://orcid.org/{{ page.identifier }}
-          </a>
-        </dd>
-      {% endif %}
-      {% for link in page.sameAs %}
-        {%- if link.name == "CNPq" -%}
-        <dd>
-        <a itemprop="sameAs" content="http://lattes.cnpq.br/{{ link.url }}" href="http://lattes.cnpq.br/{{ link.url }}" title="Currículo Lattes">
-          <img src="http://memoria.cnpq.br/Portal-Lattes-Home-theme/images/logo-lattes.png" alt="Currículo Lattes" />
-          </a>
-        </dd>
-        <dd>
-        <a itemprop="sameAs" content="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" href="http://dgp.cnpq.br/dgp/espelhorh/{{ link.url }}" title="Diretório dos Grupos de Pesquisa">
-          <img src="http://lattes.cnpq.br/image/layout_set_logo?img_id=14055&t=1588186121214" alt="Diretório dos Grupos de Pesquisa" />
-          </a>
-        {%- else -%}
-        <dd>
-        <a itemprop="sameAs" content="{{ link.url }}" href="{{ link.url }}" title="{{ link.name }}">
-          {%- if link.image -%}
-          <img src="{{ link.image }}" alt="{{ link.name }}" />
-          {%- else -%}
-          {{ link.name }}
-          {%- endif -%}
-          </a>
-        </dd>
-        {%- endif -%}
-      {% endfor %}
-    </dl>
-  </header>
+{% assign page.title = page.author %}
+<article itemscope itemtype="http://schema.org/Person" class="person">
 
   <div class="post-content">
     {% unless page.content %}
@@ -74,7 +30,7 @@ layout: default
 
     {{ content }}
 
-    <h3>Projetos de pesquisa</h3>
+    <h2>Projetos de pesquisa</h2>
     <ul class="list affiliation">
       {% for org in page.affiliation %}
       {%- assign orgid = site.organization | where: "identifier", org.Organization -%}
@@ -90,8 +46,6 @@ layout: default
         {%- endfor -%}
       {% endfor %}
     </ul>
-
-    {% include biblio.html %}
 
   </div>
 </article>

@@ -1,10 +1,5 @@
 ---
-familyName: Pimentel Lopes
-givenName: Camila de Queiroz
-identifier: 0000-0003-3446-3321
-sameAs:
-- name: CNPq
-  url: 3613601942031627
+author: Camila de Queiroz Pimentel Lopes
 affiliation:
 - Organization: dmcpatrimonio
   Role:

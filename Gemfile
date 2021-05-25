@@ -1,22 +1,21 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2.0"
-gem "minima", "~>2.5.1"
+gem "minimal-mistakes-jekyll", "~>4.23.0"
+# The following plugins are automatically loaded by the theme-gem:
+#   gem "jekyll-paginate"
+#   gem "jekyll-sitemap"
+#   gem "jekyll-gist"
+#   gem "jekyll-feed"
+#   gem "jekyll-include-cache"
 group :jekyll_plugins do
-  gem "jekyll-feed"
+  gem "jekyll-archives"
+  gem "jekyll-coffeescript"
+  gem "jekyll-data"
   gem "jekyll-pandoc"
-  gem "jekyll-sitemap"
+  gem "jekyll-relative-links"
   gem "jekyll-seo-tag"
   # Sassc is preferred to the legacy ruby-sass
   gem "sassc"
-  # Required GitHub Pages plugins below
-  gem "jekyll-coffeescript"
-  gem "jekyll-default-layout"
-  gem "jekyll-gist"
-  gem "jekyll-optional-front-matter"
-  gem "jekyll-paginate"
-  gem "jekyll-readme-index"
-  gem "jekyll-relative-links"
-  gem "jekyll-titles-from-headings"
   # Required by Ruby 3
   gem "webrick"
   gem "stringex"

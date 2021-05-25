@@ -8,7 +8,7 @@
         {%- assign teamrole = affiliate.Role | where: endDate[0], nil | where: "name", role -%}
         {%- if teamrole.size > 0 and teamrole[0].endDate == nil -%}
         <li itemscope itemtype="http://schema.org/Person">
-          <a href="{{ member.url }}">{{ member.givenName }} {{ member.additionalName }} {{ member.familyName }}</a>
+          <a href="{{ member.url }}">{{ member.author }}</a>
         </li>
         {% endif %}
       {%- endfor -%}
@@ -25,7 +25,7 @@
 {% endfor %}
 {%- endcapture -%}
 {%- if teams.size > 0 -%}
-  {% if page.collection %}<h2>Equipe</h2>{% endif %}
+  {% if page.collection %}<h2 id="equipe">Equipe</h2>{% endif %}
   {{ teams }}
 {% endif %}
 </div>
@@ -38,7 +38,7 @@
     {%- assign teamrole = affiliate.Role -%}
     {%- if teamrole.size > 0 and teamrole[0].endDate -%}
       <li itemscope itemtype="http://schema.org/Person">
-        <a href="{{ member.url }}">{{ member.givenName }} {{ member.additionalName }} {{ member.familyName }}</a>
+        <a href="{{ member.url }}">{{ member.author }}</a>
       </li>
       {%- endif -%}
     {%- endfor -%}

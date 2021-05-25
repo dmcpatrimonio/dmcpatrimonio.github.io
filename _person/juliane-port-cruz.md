@@ -1,11 +1,5 @@
 ---
-familyName: Cruz
-givenName: Juliane Porto
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4343962P6
-sameAs:
-- name: CNPq
-  url: 1684851292993227
+author: Juliane Porto Cruz
 affiliation:
 - Organization: dmcpatrimonio
   Role:

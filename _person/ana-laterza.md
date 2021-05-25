@@ -1,11 +1,5 @@
 ---
-familyName: Laterza
-givenName: Ana
-identifier: 
-image: 
-sameAs:
-- name: CNPq
-  url: 9195960010331870
+author: Ana Laterza
 affiliation:
 - Organization: dmcpatrimonio
   Role:

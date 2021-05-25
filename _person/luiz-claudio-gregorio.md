@@ -1,10 +1,5 @@
 ---
-familyName: Gregório
-givenName: Luiz Cláudio
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8457175D0
-sameAs:
-- name: CNPq
-  url: 6182832712701372
+author: Luiz Cláudio Gregório
 affiliation:
 - Organization: dmcpatrimonio
   Role:

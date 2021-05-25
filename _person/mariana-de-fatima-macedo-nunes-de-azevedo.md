@@ -1,12 +1,5 @@
 ---
-familyName: Azevedo
-givenName: Mariana de Fátima Macedo Nunes
-additionalName: de
-identifier: 0000-0003-0476-6962
-image: 
-sameAs:
-- name: CNPq
-  url: 4452882297765384
+author: Mariana de Fátima Macedo Nunes de Azevedo
 affiliation:
 - Organization: dmcpatrimonio
   Role:

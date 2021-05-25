@@ -1,12 +1,5 @@
 ---
-familyName: Medeiros
-givenName: Ana Elisabete de Almeida
-identifier: 0000-0003-3248-4399
-sameAs:
-- name: CNPq
-  url: 1766107518538219
-email: ana@unb.br
-telephone: 55 61 31 07 74 49
+author: Ana Elisabete de Almeida Medeiros
 affiliation:
 - Organization: dmcpatrimonio
   Role:

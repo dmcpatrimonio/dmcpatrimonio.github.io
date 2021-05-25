@@ -1,11 +1,5 @@
 ---
-familyName: Faria
-givenName: Luana Alves
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8649271T7
-sameAs:
-- name: CNPq
-  url: 6505759309043943
+author: Luana Alves Faria
 affiliation:
 - Organization: dmcpatrimonio
   Role:

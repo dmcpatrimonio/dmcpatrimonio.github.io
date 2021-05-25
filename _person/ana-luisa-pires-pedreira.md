@@ -1,13 +1,5 @@
 ---
-familyName: Pedreira
-givenName: Ana Luísa Pires
-identifier: 
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8646602T8
-sameAs:
-- name: CNPq
-  url: 1044655749746705
-email: 
-telephone: 
+author: Ana Luísa Pires Pedreira
 affiliation:
 - Organization: dmcpatrimonio
   Role:

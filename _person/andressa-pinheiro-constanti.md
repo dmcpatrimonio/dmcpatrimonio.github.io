@@ -1,10 +1,5 @@
 ---
-familyName: Constanti
-givenName: Andressa Pinheiro
-identifier: 
-sameAs:
-- name: CNPq
-  url: 3938706916241036
+author: Andressa Pinheiro Constanti
 affiliation:
 - Organization: dmcpatrimonio
   Role:

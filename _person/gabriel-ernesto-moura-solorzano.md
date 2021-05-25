@@ -1,10 +1,5 @@
 ---
-familyName     : Solórzano
-givenName      : Gabriel Ernesto Moura
-identifier     : 0000-0002-4078-7579
-sameAs:
-- name: CNPq
-  url: 045857357323086
+author: Gabriel Ernesto Moura Solórzano
 affiliation:
 - Organization: dmcpatrimonio
   Role:

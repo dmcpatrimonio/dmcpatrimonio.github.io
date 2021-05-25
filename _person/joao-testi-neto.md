@@ -1,12 +1,5 @@
 ---
-familyName: Testi Neto
-givenName: João
-additionalName: 
-identifier: 0000-0001-7192-425X
-image: 
-sameAs:
-- name: CNPq
-  url: 4426176176505648
+author: João  Testi Neto
 affiliation:
 - Organization: dmcpatrimonio
   Role:

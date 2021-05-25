@@ -1,11 +1,5 @@
 ---
-familyName: Loddi
-givenName: Laila Beatriz da Rocha
-identifier: 0000-0001-5387-755X
-image: http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K4214280T6
-sameAs:
-- name: CNPq
-  url: 7468794244623680
+author: Laila Beatriz da Rocha Loddi
 affiliation:
 - Organization: dmcpatrimonio
   Role:
