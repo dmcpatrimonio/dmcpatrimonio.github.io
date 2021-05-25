@@ -200,8 +200,8 @@ relative_links:
 # Markdown Processing
 pandoc:
   extensions:
-    - bibliography       : "_data/biblio.yaml"
-    - defaults           : "_spec/defaults.yaml"
+    - bibliography: "_data/biblio.yaml"
+    - defaults: "_spec/defaults.yaml"
     - section-divs
 kramdown:
   input: GFM
@@ -314,8 +314,6 @@ defaults:
       related: true
       show_date          : true
       date_format        : "%d/%m/%Y"
-      toc                : true
-      toc_sticky         : true
       header:
         overlay_color    : "#111111"
         overlay_filter   : 0.5
@@ -331,8 +329,6 @@ defaults:
       comments           : false
       share              : true
       related            : true
-      toc                : true
-      toc_sticky         : true
     # _biblio (not in use)
   - scope:
       path               : ""
@@ -377,8 +373,6 @@ defaults:
       comments           : false
       share              : true
       related            : true
-      toc                : true
-      toc_sticky         : true
     # _organization
   - scope:
       path               : ""
@@ -392,8 +386,6 @@ defaults:
       comments           : false
       share              : true
       related            : true
-      toc                : true
-      toc_sticky         : true
     # _person
   - scope:
       path               : ""
@@ -421,8 +413,6 @@ defaults:
       comments           : false
       share              : true
       related            : true
-      toc                : true
-      toc_sticky         : true
       header:
         overlay_color    : "#111111"
         overlay_filter   : 0.5

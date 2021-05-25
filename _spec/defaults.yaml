@@ -1,3 +1,4 @@
+from                   : "markdown"
 data-dir               : "_lib"
 fail-if-warnings       : false
 file-scope             : true
