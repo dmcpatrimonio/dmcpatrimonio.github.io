@@ -41,8 +41,8 @@ páginas e os registros existentes em vez de criar novos.
 ## Notícias e outras postagens ##
 
 Crie uma página no endereço
-[`_posts/2021-02-28-titulo-resumido.md`](_posts/) seguindo o modelo
-abaixo.
+[`_posts/2021-02-28-titulo-resumido.md`](_posts/) seguindo (copiando) o
+modelo abaixo e alterando o conteúdo.
 
 O nome do arquivo deve começar com a data no formato `aaaa-mm-dd` e na
 sequência um breve nome explicativo (não precisa ser idêntico ao
@@ -55,7 +55,7 @@ tal como cadastrado no arquivo [`_data/authors.yaml`](_data/authors.yaml)
 <details>
 <summary> Clique aqui para abrir o modelo :arrow_heading_down: </summary>
 
-``` markdown
+``` yaml
 ---
 title: Título completo do post numa linha só
 # O nome do autor abaixo deve ser idêntico ao cadastrado
@@ -63,7 +63,8 @@ title: Título completo do post numa linha só
 author: Nome do autor
 date: 2021-02-28
 ---
-
+```
+``` markdown
 # Isto é um cabeçalho de seção #
 
 O texto da postagem pode ser formatado usando Markdown
@@ -102,8 +103,9 @@ e a
 Os códigos de citação podem ser consultados no arquivo
 [`_data/biblio.yaml`](_data/biblio.yaml); eles seguem o formato
 `@sobrenome:2020palavra` onde `sobrenome` é o do primeiro autor, seguido
-do ano de publicação e da primeira palavra do título. Veja mais abaixo
-como incluir novas publicações.
+do ano de publicação e da primeira palavra do título.
+Ver mais detalhes sobre como citar referências bibliográficas mais
+abaixo, em [Nova produção bibliográfica ou técnica](#nova-produção-bibliográfica-ou-técnica).
 
 Outros recursos de
 [apresentação](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
@@ -259,16 +261,19 @@ worksFor:
   Role:
   - name: Professor Adjunto
     startDate: 2015-11-30
-nocite: >- # Produção bibliográfica da pessoa, separadas por vírgulas
-  @palazzo:2018accouplement,
-  @palazzo:2018gis,
-  @palazzo:2020relacoes
 ---
-
+```
+``` markdown
 Inserir aqui o resumo do CV Lattes ou outro breve texto de
 apresentação da pessoa. Pode usar formatação Markdown conforme
 explicado mais acima.
 
+# Produção bibliográfica e técnica #
+
+Listar a produção do modo que parecer mais conveniente. Por
+exemplo:
+
+1. @palazzo:2018accouplement2. Inclua comentários se quiser.
 ```
 
 </details>
@@ -280,6 +285,8 @@ hífens no lugar dos espaços. Assim, a página do "João Cançado d'Ors"
 será `_person/joao-cancado-dors.md`. O texto do resumo pode ser
 formatado usando Markdown, conforme explicado na seção [Notícias e
 outras postagens](#notícias-e-outras-postagens) acima.
+Ver mais detalhes sobre como citar referências bibliográficas mais
+abaixo, em [Nova produção bibliográfica ou técnica](#nova-produção-bibliográfica-ou-técnica).
 
 ## Novo projeto de pesquisa ##
 
@@ -292,6 +299,9 @@ com o conteúdo do modelo a seguir; editar os campos conforme apropriado.
 ``` yaml
 ---
 title: Clássico Tradicional Eclético
+# O 'author' do projeto é o coordenador da pesquisa.
+# A grafia deve ser idêntica ao nome de autor cadastrado acima.
+author: Pedro Paulo Palazzo de Almeida
 identifier: classico-trad-ecletico # idêntico ao nome do arquivo, sem a extensão
 parentOrganization: construcao # Identificador da linha de pesquisa à qual este projeto se vincula
 tags:
@@ -305,34 +315,85 @@ tags:
 - Não usar pontuação nas palavras-chave
 startDate: 2018-06-18 # Data de início do projeto no formato aaaa-mm-dd
 endDate: # Preencher somente se o projeto já foi concluído.
-header: # Seção opcional, caso haja uma imagem representativa do projeto.
-  image: "https://repository-images.githubusercontent.com/224453298/09a3bd80-60be-11ea-83cb-4b22bffcf270"
-  image_description: "Foto antiga da avenida Rio Branco mostrando edifícios ecléticos"
-  caption: "Foto: Augusto Malta, acervo IMS/Brasiliana Fotográfica"
-  og_image: # Imagem menor, para compartilhamento em redes sociais
 excerpt: >-
-  Breve descrição do projeto de pesquisa (uma ou duas frases).
-  Esta descrição não aparece na página, mas é importante
-  para mecanismos de busca.
-nocite: >- # Produção bibliográfica decorrente, separada por vírgulas
-  @palazzo:2018accouplement,
-  @solorzano:2019relacoes
+  Breve descrição do projeto de pesquisa.
+  Esta descrição aparece no topo da página.
 ---
-
+```
+```markdown
 Escrever uma breve descrição dos objetivos do projeto e outras
-informações relevantes. Pode formatar usando Markdown.
+informações relevantes. Pode formatar usando Markdown. Indicar a
+produção bibliográfica e técnica decorrente do projeto, organizando do
+modo que for mais relevante. Por exemplo:
 
+# Produção bibliográfica e técnica #
+
+## Artigos Qualis A ou internacionais ##
+
+1. @palazzo:2020literary32. Qualis B2 Internacional
+
+## Outros artigos ##
+
+1. @almeida:2019luz
+2. @almeida:2021papel
+3. @nascimento:2019imagens13
+4. @oliveira:2019avenida1
+5. @oliveira:2019elementos
+6. @palazzo:2020relacoes
+7. @pimentellopes:2017especulacao
+8. @pimentellopes:2018bases
+
+## Outra produção bibliográfica ##
+
+1. @ficher:2019mello
+2. @palazzo:2018tipologia
+3. @palazzo:2018accouplement2
+4. @palazzo:2017missing
+5. @palazzo:2019imagem
+6. @solorzano:2019relacoes
+
+## Produção técnica ##
+
+1. @palazzo:2019saberes
+2. @palazzo:2020teoria
+
+## Teses e dissertações defendidas ##
+
+1. @bercott:2019historia
+2. @lima:2018narrativas
+3. @pereira:2020arquitetura
+4. @pimentellopes:2018natividade
+5. @solorzano:2020superquadra
 ```
 
 </details>
 
 O código da linha de pesquisa é o campo `identifier` na respectiva
 página, localizada na pasta [`_organization`](_organization/).
+Ver mais detalhes sobre como citar referências bibliográficas mais
+abaixo, em [Nova produção bibliográfica ou técnica](#nova-produção-bibliográfica-ou-técnica).
 
 ## Nova produção bibliográfica ou técnica ##
 
-A definir como vamos colaborar no cadastramento de bibliografia:
-Mendeley ou Zotero?
+> :warning: A definir como vamos colaborar no cadastramento de
+> bibliografia: Mendeley ou Zotero? Manualmente?
+
+A produção bibliográfica do grupo está cadastrada em
+[`_data/biblio.yaml`](_data/biblio.yaml). Você pode citar qualquer
+referência cadastrada digitando `@` seguido do *id* da referência, que
+está na forma  `sobrenome do primeiro autor:` seguido do `ano` de
+publicação, a `primeira palavra do título` e eventualmente o volume da
+obra. Por exemplo:
+
+> Sarah da Silva Almeida, Valéria Ribeiro da Silva Franklin Almeida, e
+> Eduardo Barbosa Lusa “Luz, câmera, preservação! O papel do cinema na
+> conservação da arquitetura moderna”, in *Anais do 3º Simpósio
+> Científico do ICOMOS Brasil* (3º Simpósio Científico do ICOMOS Brasil,
+> Belo Horizonte: IEDS, 2019),
+> https://even3.com.br/anais/iiisimposioicomosbrasil/155778-luz-camera-preservacao-o-papel-do-cinema-na-conservacao-da-arquitetura-moderna.
+
+Deve ser citado como: `@almeida:2019luz`. A referência completa e
+formatada aparecerá no mesmo lugar em que o *id* foi inserido.
 
 * * * *
 

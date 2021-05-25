@@ -201,7 +201,6 @@ relative_links:
 pandoc:
   extensions:
     - bibliography       : "_data/biblio.yaml"
-    - csl                : "_lib/chicago-cv.csl"
     - defaults           : "_spec/defaults.yaml"
     - section-divs
 kramdown:
@@ -316,7 +315,11 @@ defaults:
       show_date          : true
       date_format        : "%d/%m/%Y"
       toc                : true
-    # _thing
+      toc_sticky         : true
+      header:
+        overlay_color    : "#111111"
+        overlay_filter   : 0.5
+    # _thing (not in use)
   - scope:
       path               : ""
       type               : "thing"
@@ -329,7 +332,8 @@ defaults:
       share              : true
       related            : true
       toc                : true
-    # _biblio
+      toc_sticky         : true
+    # _biblio (not in use)
   - scope:
       path               : ""
       type               : "creativework"
@@ -357,7 +361,10 @@ defaults:
       share              : true
       related            : true
       toc                : true
-    # _grant
+      header:
+        overlay_color    : "#111111"
+        overlay_filter   : 0.5
+    # _grant (not in use)
   - scope:
       path               : ""
       type               : "grant"
@@ -371,6 +378,7 @@ defaults:
       share              : true
       related            : true
       toc                : true
+      toc_sticky         : true
     # _organization
   - scope:
       path               : ""
@@ -385,6 +393,7 @@ defaults:
       share              : true
       related            : true
       toc                : true
+      toc_sticky         : true
     # _person
   - scope:
       path               : ""
@@ -398,7 +407,7 @@ defaults:
       comments           : false
       share              : true
       related            : false
-      toc                : true
+      toc                : false
     # _project
   - scope:
       path               : ""
@@ -413,6 +422,10 @@ defaults:
       share              : true
       related            : true
       toc                : true
+      toc_sticky         : true
+      header:
+        overlay_color    : "#111111"
+        overlay_filter   : 0.5
 
 
 # Collections

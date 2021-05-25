@@ -30,7 +30,7 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	@echo "$< > $@"
 
 .PHONY : _site
-_site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
+_site : | _lib/chicago-cv.csl
 	@$(JEKYLL/PANDOC) /bin/bash -c \
 	"chmod 777 /srv/jekyll && jekyll build"
 
@@ -41,7 +41,7 @@ _csl/%.csl : _csl
 # Install and cleanup {{{1
 # ===================
 .PHONY : serve
-serve : | _csl/chicago-fullnote-bibliography-with-ibid.csl
+serve : | _lib/chicago-cv.csl
 	@$(JEKYLL/PANDOC) jekyll serve
 
 .PHONY : _csl

@@ -7,6 +7,8 @@ filters:
 metadata:
   crossrefYaml         : "_spec/crossref.yaml"
   suppress-bibliography: true
+  csl                  : "_lib/chicago-cv.csl"
+  lang                 : "pt-BR"
 reference-links        : true
 resource-path:
 - .

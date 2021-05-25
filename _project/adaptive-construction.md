@@ -37,6 +37,11 @@ startDate: 2020-05-05
 sameAs:
 - name: Site do projeto
   url: https://dmcpatrimonio.github.io/adaptive-construction
+nocite: >
+  garcia:2020caixa7,
+  oliveira:2019avenida1,
+  oliveira:2019elementos,
+  palazzo:2019saberes
 ---
 
 Projeto vinculado à linha de pesquisa **Patrimônio Cultural e

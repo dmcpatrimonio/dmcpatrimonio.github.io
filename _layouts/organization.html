@@ -9,14 +9,14 @@ layout: page
 
   <div class="post-content">
   {%- if page.collection -%}
-    <p class="description" itemprop="description">{{ page.description }} </p>
-    {% if page.keywords %}
+    {% if page.tags %}
     <ul class="keywords" itemprop="keywords">
       <span class="keywords-title">Palavras-chave:</span>
-      {% for keyword in page.keywords %}
+      {% for keyword in page.tags %}
         <li>{{ keyword }}{%- unless forloop.last -%}, {%- endunless -%}</li>
       {% endfor %}
     </ul>
+    <hr />
   {% endif %}
 
   {{ content }}
@@ -57,8 +57,6 @@ layout: page
 
   {% include team.html %}
 
-  {% include biblio.html %}
-
   {%- else -%}
     {{ content }}
     {%- assign groups = site.organization | where: "parentOrganization", slug -%}
@@ -77,10 +75,10 @@ layout: page
     {% if group.description %}
     <p class="description">{{ group.description }}</p>
     {% endif %}
-    {% if group.keywords %}
+    {% if group.tags %}
     <ul class="keywords" itemprop="keywords">
       <span class="keywords-title">Palavras-chave:</span>
-      {% for keyword in group.keywords %}
+      {% for keyword in group.tags %}
         <li>{{ keyword }}{%- unless forloop.last -%}, {%- endunless -%}</li>
       {% endfor %}
     </ul>

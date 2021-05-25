@@ -1,30 +1,26 @@
 ---
-title: "Clássico, tradicional, eclético: nacionalismo e cosmopolitismo na cidade industrial"
+title: "Clássico, tradicional, eclético"
 author: Pedro Paulo Palazzo
 identifier: classico-trad-ecletico
 parentOrganization: patrimonio
+startDate: 2018-06-18
 grant:
 - identifier: cnpq-ic-2020-2021
+  funder: "CNPq"
+  description: "1 bolsa de iniciação científica 2020–2021"
   amount:
     currency: BRL
     value: 4800
-  description: "1 bolsa de iniciação científica 2020–2021"
-  funder: "CNPq"
-layout: splash
 header:
-  overlay_color: "#111111"
-  overlay_filter: 0.5
-  overlay_image: "https://repository-images.githubusercontent.com/322068785/c41fe000-bcc3-11eb-922a-c3c5dadf665c"
+  overlay_image: "https://i.pinimg.com/originals/39/19/43/391943fd162c3af27bfc3ab1bf56e323.jpg"
   image_description: "Foto antiga de uma avenida com prédios ecléticos"
-  caption: "Foto: Augusto Malta, acervo Brasiliana Fotográfica"
+  caption: "Avenida Central, Rio de Janeiro. Foto: Marc Ferrez, 1906"
   og_image: "https://avatars3.githubusercontent.com/t/3543678"
-startDate: 2018-06-18
-sameAs:
-- name: Site do projeto
-  url: https://dmcpatrimonio.github.io/arqtrad
+  actions:
+  - label: "Site do projeto"
+    url: "https://dmcpatrimonio.github.io/classico-trad-ecletico"
 excerpt: >-
-  Projeto de pesquisa em História e Teoria da Arquitetura desenvolvido
-  no PPG–FAU–UnB
+  Nacionalismo e cosmopolitismo na cidade industrial
 tags:
 - Arquitetura tradicional
 - Ecletismo
@@ -44,4 +40,43 @@ Projeto vinculado à linha de pesquisa **História e Teoria da
 Arquitetura**, área de concentração **Teoria, História e Crítica** do
 Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da
 Universidade de Brasília.
+
+# Produção bibliográfica e técnica #
+
+## Artigos Qualis A ou internacionais ##
+
+1. @palazzo:2020literary32. Qualis B2 Internacional
+
+## Outros artigos ##
+
+1. @nascimento:2019imagens13
+2. @palazzo:2020relacoes
+
+## Outra produção bibliográfica ##
+
+1. @almeida:2019luz
+2. @almeida:2021papel
+3. @ficher:2019mello
+4. @oliveira:2019avenida1
+5. @oliveira:2019elementos
+6. @palazzo:2018tipologia
+7. @palazzo:2018accouplement2
+8. @palazzo:2017missing
+9. @solorzano:2019relacoes
+9. @pimentellopes:2017especulacao
+9. @pimentellopes:2018bases
+
+## Produção técnica ##
+
+1. @palazzo:2019imagem
+2. @palazzo:2019saberes
+3. @palazzo:2020teoria
+
+## Teses e dissertações defendidas ##
+
+1. @bercott:2019historia
+2. @lima:2018narrativas
+3. @pereira:2020arquitetura
+4. @pimentellopes:2018natividade
+5. @solorzano:2020superquadra
 
