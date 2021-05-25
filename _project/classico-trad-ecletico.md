@@ -41,7 +41,7 @@ Arquitetura**, área de concentração **Teoria, História e Crítica** do
 Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da
 Universidade de Brasília.
 
-# Produção bibliográfica e técnica #
+# Produção bibliográfica e técnica # {#biblio}
 
 ## Artigos Qualis A ou internacionais ##
 

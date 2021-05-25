@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 ---
 {%- assign slug = page.name | split: "." | first -%}
 {%- assign members = site.person | sort: "givenName" | sort: "familyName" -%}
@@ -23,7 +23,7 @@ layout: page
 
   {%- assign projects = site.project | where: "parentOrganization", page.slug -%}
   {%- if projects[0] -%}
-    <h2 id="projects">Projetos de pesquisa</h2>
+    <h2 id="projetos">Projetos de pesquisa</h2>
     <ul class="list projects">
       {%- for project in projects -%}
         <li itemscope itemtype="http://schema.org/Organization">
@@ -34,7 +34,7 @@ layout: page
   {%- endif -%}
 
   {%- if page.grant[0] -%}
-    <h2>Financiamento</h2>
+    <h2 id="financiamento">Financiamento</h2>
     <div class="grant-group">
       <table>
         <thead>
@@ -72,8 +72,8 @@ layout: page
       {%- endif -%}
     </p>
     {% endif %}
-    {% if group.description %}
-    <p class="description">{{ group.description }}</p>
+    {% if group.excerpt %}
+    <p class="excerpt">{{ group.excerpt }}</p>
     {% endif %}
     {% if group.tags %}
     <ul class="keywords" itemprop="keywords">
