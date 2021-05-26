@@ -1,0 +1,12 @@
+- type: article-journal
+  name: "Artigo completo em periódico acadêmico"
+- type: book
+  name: "Livro completo, autoral ou editado"
+- type: chapter
+  name: "Capítulo em livro coletivo"
+- type: paper-conference
+  name: "Trabalho completo em anais de evento"
+- type: speech
+  name: "Palestra"
+- type: thesis
+  name: "Teses e dissertações"
