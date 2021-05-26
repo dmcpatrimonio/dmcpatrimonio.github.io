@@ -2,13 +2,7 @@
 title: "Documentação e modelagem da arquitetura tradicional"
 author: Pedro Paulo Palazzo
 identifier: doctrad
-header:
-  image:
-  image_description:
-  caption:
-  og_image:
 parentOrganization: construcao
-sameAs: 
 tags:
 excerpt: >-
   Abordagens interdisciplinares na documentação, conservação e

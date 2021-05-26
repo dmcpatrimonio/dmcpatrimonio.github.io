@@ -2,13 +2,7 @@
 title: "Ediquali terra - Desenvolvimento e aperfeiçoamento de materiais, componentes, técnicas, sistemas e processos construtivos"
 author: Márcio Albuquerque Buson
 identifier: ediquali-terra
-header:
-  image:
-  image_description:
-  caption:
-  og_image:
 parentOrganization: construcao
-sameAs: 
 tags:
 excerpt: >-
   Edificação e Qualificação em Arquitetura de Terra. Análises, estudos,

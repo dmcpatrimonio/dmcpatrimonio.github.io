@@ -2,19 +2,15 @@
 title: "Arquiteturas impressas"
 author: Ana Elisabete de Almeida Medeiros
 identifier: arquiteturas impressas
-header:
-  image:
-  image_description:
-  caption:
-  og_image:
 parentOrganization: patrimonio
-sameAs: 
 tags:
-excerpt: >-
+excerpt:
+---
+
   Por "arquitetura impressa" passa-se a entender a documentação,
   imagética ou por escrito, relativa à produção da arquitetura, desde os
-  tempos antigos. Em "A History of Architectural Theory " from Vitrivius
-  to the present", Hanno-Walter Kruft apresenta, como o próprio nome da
+  tempos antigos. Em *A History of Architectural Theory from Vitruvius
+  to the present*, Hanno-Walter Kruft apresenta, como o próprio nome da
   obra já sugere, a história do que ele chama de teoria da arquitetura,
   cujas referências fundamentais se encontram na História e na
   Arqueologia. O autor defende que a teoria da arquitetura se faz por
@@ -25,9 +21,11 @@ excerpt: >-
   vista ou entender como outros solucionaram determinados problemas.
   Isto porque, segundo o autor, a arquitetura tem que ter por base a
   reflexão, uma vez que novos sistemas nascem de debates sobre os
-  pré-existentes. O mesmo autor ainda questiona: What is the
+  pré-existentes.
+
+  O mesmo autor ainda questiona: "What is the
   relationship between architectural theory and the built architecture?
-  Is the theory an ex post facto set of refletions complementing,
+  Is the theory an ex post facto set of reflections complementing,
   justifying and intellectualising what is already been built, or does
   it lay down programmes and requirements of architecture to fulfil?"
   (KRUFT, 1994: 16). Em resposta, o próprio Kruft argumenta que a
@@ -50,4 +48,3 @@ excerpt: >-
   por escrito objeto de pesquisa é parte necessária e imprescindível ao
   ensino, à extensão e à própria produção, teórica e prática, da
   arquitetura e do urbanismo contemporâneos.
----
