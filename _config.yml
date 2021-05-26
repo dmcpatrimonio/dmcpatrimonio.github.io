@@ -195,6 +195,23 @@ incremental: false
 relative_links:
   enabled                : true
   collections            : true
+scholar:
+  bibliography           : "_biblio.bib"
+  group_by               : year,type
+  group_order            : descending,ascending
+  locale                 : pt
+  order                  : ascending
+  sort_by                : author
+  source                 : "./"
+  style                  : "associacao-brasileira-de-normas-tecnicas"
+  type_names:
+    article: "Artigo completo em periódico acadêmico"
+    book: "Livro autoral ou editado"
+    incollection: "Capítulo de livro"
+    inproceedings: "Trabalho completo em anais de evento"
+    mvbook: "Livro autoral"
+    unpublished: "Palestra"
+    thesis: "Teses e dissertações"
 
 
 # Markdown Processing
@@ -239,6 +256,7 @@ plugins:
   - jekyll-data
   - jekyll-pandoc
   - jekyll-relative-links
+  - jekyll-scholar
   - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
