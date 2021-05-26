@@ -5,7 +5,9 @@
 Site do grupo de pesquisa. Usamos:
 
 - [Jekyll](https://jekyllrb.com)
-- Template [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- Tema [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar)
+- [Jekyll Group by Array](https://github.com/mushishi78/jekyll-group-by-array)
 - [Academicons](http://jpswalsh.github.io/academicons/)
 
 ## Como atualizar este site ##
@@ -67,8 +69,9 @@ date: 2021-02-28
 ``` markdown
 # Isto é um cabeçalho de seção #
 
-O texto da postagem pode ser formatado usando Markdown
-(veja abaixo alguns exemplos e links para saber mais).
+O texto da postagem pode ser formatado usando Markdown, mais
+especificamente a sua variante Pandoc (veja abaixo alguns exemplos e
+links para saber mais).
 
 ## Isto é um cabeçalho de subseção ##
 
@@ -96,16 +99,15 @@ colchetes. Veja mais abaixo onde encontrar o código da citação.
 </details>
 
 Escreva o texto do post, formatando conforme o exemplo acima. Veja
-também uma
-[introdução ao Markdown para historiadores](https://programminghistorian.org/es/lecciones/introduccion-a-markdown)
-e a
-[referência completa da formatação possível](https://pandoc.org/MANUAL.html#pandocs-markdown).
+também uma introdução à escrita digital sustentável formatada com
+[Markdown e Pandoc](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown).
 Os códigos de citação podem ser consultados no arquivo
 [`_data/biblio.yaml`](_data/biblio.yaml); eles seguem o formato
 `@sobrenome:2020palavra` onde `sobrenome` é o do primeiro autor, seguido
-do ano de publicação e da primeira palavra do título.
-Ver mais detalhes sobre como citar referências bibliográficas mais
-abaixo, em [Nova produção bibliográfica ou técnica](#nova-produção-bibliográfica-ou-técnica).
+do ano de publicação e da primeira palavra do título. Ver mais detalhes
+sobre como citar referências bibliográficas mais abaixo, em [Nova
+produção bibliográfica ou
+técnica](#nova-produção-bibliográfica-ou-técnica).
 
 Outros recursos de
 [apresentação](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
@@ -118,10 +120,10 @@ estão explicados na documentação do Template.
 ### Primeiro passo ###
 
 Incluir os dados do membro no arquivo
-[`_data/authors.yaml`](data/authors.yaml) segundo o modelo abaixo. Não é
-preciso preencher todos os links; apague os itens que não se aplicarem.
-No campo `affiliation`, indique sempre o cargo atual em primeiro e os
-demais em ordem cronológica decrescente.
+[`_data/authors.yaml`](_data/authors.yaml) segundo o modelo abaixo. Não
+é preciso preencher todos os links; apague os itens que não se
+aplicarem. No campo `affiliation`, indique sempre o cargo atual em
+primeiro e os demais em ordem cronológica decrescente.
 
 <details>
 <summary>Clique aqui para abrir o modelo :arrow_heading_down:</summary>
