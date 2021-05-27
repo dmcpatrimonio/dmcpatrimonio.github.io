@@ -2,7 +2,7 @@
 layout: single
 ---
 {%- assign slug = page.name | split: "." | first -%}
-{%- assign members = site.person | sort: "givenName" | sort: "familyName" -%}
+{%- assign members = site.person | sort: "title" -%}
 {%- assign baseurl = site.baseurl | remove: "/" -%}
 {%- assign project = page.identifier | default: baseurl | default: site.github_username -%}
 <article itemscope itemtype="{{ page.itemtype }}" class="post">
@@ -10,16 +10,16 @@ layout: single
   <div class="post-content">
   {%- if page.collection -%}
     {% if page.tags %}
-    <ul class="keywords" itemprop="keywords">
-      <span class="keywords-title">Palavras-chave:</span>
-      {% for keyword in page.tags %}
-        <li>{{ keyword }}{%- unless forloop.last -%}, {%- endunless -%}</li>
-      {% endfor %}
-    </ul>
-    <hr />
-  {% endif %}
+      <ul class="keywords" itemprop="keywords">
+        <span class="keywords-title">Palavras-chave:</span>
+        {% for keyword in page.tags %}
+          <li>{{ keyword }}{%- unless forloop.last -%}, {%- endunless -%}</li>
+        {% endfor %}
+      </ul>
+      <hr />
+    {% endif %}
 
-  {{ content }}
+    {{ content }}
 
   {%- assign projects = site.project | where: "parentOrganization", page.slug -%}
   {%- if projects[0] -%}
