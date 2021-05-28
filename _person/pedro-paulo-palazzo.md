@@ -67,3 +67,6 @@ Building, Architecture and Urbanism* (INTBAU España), e revisor *ad hoc*
 de diversos periódicos, dentre os quais a revista *Urbana* (USP) e a
 *Paranoá* (UnB).
 
+## Produção ##
+
+{% bibliography --query @*[author=Palazzo, Pedro P.] %}
