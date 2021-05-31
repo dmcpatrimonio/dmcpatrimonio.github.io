@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Ana Cristina Menezes Palhas",
-        "excerpt":"Possui graduação em Arquitetura e Urbanismo pela Universidade de Brasília(2007) e mestrado profissionalizante em Arquitetura e Urbanismo pela Haute Ecole Spécialisée de Suisse Occidentale (2012). Tem experiência na área de Arquitetura e Urbanismo.  ","categories": [],
+        "excerpt":"Possui graduação em Arquitetura e Urbanismo pela Universidade de Brasília(2007) e mestrado profissionalizante em Arquitetura e Urbanismo pela Haute Ecole Spécialisée de Suisse Occidentale (2012). Tem experiência na área de Arquitetura e Urbanismo.   ","categories": [],
         "tags": [],
         "url": "/membro/ana-cristina-menezes-palhas/",
         "teaser": null
@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Ana Laterza",
-        "excerpt":"Formada em Arquitetura e Urbanismo pela Faculdade de Arquitetura e Urbanismo da Universidade de Brasília. Especialização em Restauro e Conservação na II Facoltà di Architettura do Politecnico di Torino  ","categories": [],
+        "excerpt":"Formada em Arquitetura e Urbanismo pela Faculdade de Arquitetura e Urbanismo da Universidade de Brasília. Especialização em Restauro e Conservação na II Facoltà di Architettura do Politecnico di Torino   ","categories": [],
         "tags": [],
         "url": "/membro/ana-laterza/",
         "teaser": null
@@ -48,19 +48,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Anabel Sousa Lima",
-        "excerpt":"Possui graduação em Arquitetura e Urbanismo pelo Instituto Euro-Americano de Educação, Ciência e Tecnologia (2011). Tem experiência nas áreas de arquitetura e urbanismo, artes plásticas e museologia.  ","categories": [],
+        "excerpt":"Possui graduação em Arquitetura e Urbanismo pelo Instituto Euro-Americano de Educação, Ciência e Tecnologia (2011). Tem experiência nas áreas de arquitetura e urbanismo, artes plásticas e museologia.   ","categories": [],
         "tags": [],
         "url": "/membro/anabel-sousa-lima/",
         "teaser": null
       },{
         "title": "Andressa Pinheiro Constanti",
-        "excerpt":"Possui graduação em Arq. em Restauro e Valorização do Patrimonio - Politecnico di Torino (2015).  ","categories": [],
+        "excerpt":"Possui graduação em Arq. em Restauro e Valorização do Patrimonio - Politecnico di Torino (2015).   ","categories": [],
         "tags": [],
         "url": "/membro/andressa-pinheiro-constanti/",
         "teaser": null
       },{
         "title": "Anny Mori",
-        "excerpt":"Graduanda em Arquitetura e Urbanismo pela Universidade de Brasília. Graduada em Design de Interiores pelo Centro Universitário Planalto do Distrito Federal (2013).  ","categories": [],
+        "excerpt":"Graduanda em Arquitetura e Urbanismo pela Universidade de Brasília. Graduada em Design de Interiores pelo Centro Universitário Planalto do Distrito Federal (2013).   ","categories": [],
         "tags": [],
         "url": "/membro/anny-mori/",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Carlos Lazaro Rocha Barbosa",
-        "excerpt":"Possui ensino fundamental primeiro grau pelo Colégio Marista de Brasília(2012) e ensino médio segundo grau pelo Colégio Marista de Brasília(2015). Tem experiência na área de Arquitetura e Urbanismo.  ","categories": [],
+        "excerpt":"Possui ensino fundamental primeiro grau pelo Colégio Marista de Brasília(2012) e ensino médio segundo grau pelo Colégio Marista de Brasília(2015). Tem experiência na área de Arquitetura e Urbanismo.   ","categories": [],
         "tags": [],
         "url": "/membro/carlos-lazaro-rocha-barbosa/",
         "teaser": null
@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Maria Clara Filgueiras Lima Gabriele",
-        "excerpt":"Cursa graduação em Arquitetura e Urbanismo pela Faculdade de Arquitetura e Urbanismo da Universidade de Brasília, com um ano de graduação sanduíche no Reino Unido, em Architecture - BSc - Anglia Ruskin University (2016). Tem experiência na área de Arquitetura e Urbanismo e História da Arquitetura e Urbanismo.  ","categories": [],
+        "excerpt":"Cursa graduação em Arquitetura e Urbanismo pela Faculdade de Arquitetura e Urbanismo da Universidade de Brasília, com um ano de graduação sanduíche no Reino Unido, em Architecture - BSc - Anglia Ruskin University (2016). Tem experiência na área de Arquitetura e Urbanismo e História da Arquitetura e Urbanismo.   ","categories": [],
         "tags": [],
         "url": "/membro/maria-clara-filgueiras-lima-gabriele/",
         "teaser": null
@@ -264,7 +264,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Octavio Scapin",
-        "excerpt":"Arquiteto e Psicanalista. Mestre em Arquitetura e Urbanismo na Faculdade de Artes Visuais da Universidade Federal de Goiás (UFG). Possui formação em Arquitetura e Urbanismo pela Universidade Federal de Goiás (UFG). Desde 2016 é membro do Corpo Freudiano Escola de Psicanálise Seção Goiânia.  ","categories": [],
+        "excerpt":"Arquiteto e Psicanalista. Mestre em Arquitetura e Urbanismo na Faculdade de Artes Visuais da Universidade Federal de Goiás (UFG). Possui formação em Arquitetura e Urbanismo pela Universidade Federal de Goiás (UFG). Desde 2016 é membro do Corpo Freudiano Escola de Psicanálise Seção Goiânia.   ","categories": [],
         "tags": [],
         "url": "/membro/octavio-scapin/",
         "teaser": null
@@ -318,7 +318,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Vanessa Silva Botelho",
-        "excerpt":"Graduanda em Arquitetura e Urbanismo pela Universidade de Brasília desde 2013. Curso de inglês completo de 8 anos no Centro Interescolar de Línguas de Brasília. Estágio de Arquitetura no Escritório Heliomar Venâncio no projeto do Instituto Goiamum em 2016.  ","categories": [],
+        "excerpt":"Graduanda em Arquitetura e Urbanismo pela Universidade de Brasília desde 2013. Curso de inglês completo de 8 anos no Centro Interescolar de Línguas de Brasília. Estágio de Arquitetura no Escritório Heliomar Venâncio no projeto do Instituto Goiamum em 2016.   ","categories": [],
         "tags": [],
         "url": "/membro/vanessa-silva-botelho/",
         "teaser": null
@@ -342,19 +342,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Relatório Sucupira 2017–2020: Projeto de pesquisa Clássico Tradicional Eclético",
-        "excerpt":"Destaques Teses e dissertações com produção derivada 2020 Octávio Scapin Costa Pereira, “Arquitetura e Psicanálise: Atravessamentos teóricos a partir da década de 1960” (Dissertação (Mestrado em Arquitetura e Urbanismo), Brasília, Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, 2020). A pesquisa aborda problemas teórico-críticos relevantes para uma epistemologia da história...","categories": ["Sucupira","Clássico Tradicional Eclético"],
-        "tags": ["relatório",2017,2018,2019,2020],
-        "url": "/sucupira/cl%C3%A1ssico%20tradicional%20ecl%C3%A9tico/sucupira-classico-trad-ecletico/",
+        "excerpt":"Destaques Teses e dissertações com produção derivada 2020 PEREIRA, O. S. C. Arquitetura e Psicanálise: Atravessamentos teóricos a partir da década de 1960. Dissertação (Mestrado em Arquitetura e Urbanismo)—Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, 2020. A pesquisa aborda problemas teórico-críticos relevantes para uma epistemologia da história da...","categories": ["Sucupira"],
+        "tags": ["relatório",2017,2018,2019,2020,"Clássico Tradicional Eclético"],
+        "url": "/sucupira/sucupira-classico-trad-ecletico/",
         "teaser": null
       },{
         "title": "Arquiteturas impressas",
-        "excerpt":" ","categories": [],
+        "excerpt":"Por “arquitetura impressa” passa-se a entender a documentação, imagética ou por escrito, relativa à produção da arquitetura, desde os tempos antigos. Em A History of Architectural Theory from Vitruvius to the present, Hanno-Walter Kruft apresenta, como o próprio nome da obra já sugere, a história do que ele chama de...","categories": [],
         "tags": [],
         "url": "/projeto/arquiteturas-impressas/",
         "teaser": null
       },{
         "title": "Avaliação do estado de conservação do patrimônio moderno",
-        "excerpt":" ","categories": [],
+        "excerpt":"As pesquisas visam a colaborar com o avanço das discussões sobre os desafios da conservação e reabilitação das edificações caracterizadas como Patrimônio Moderno. Neste sentido, busca pesquisar ferramentas e métodos aplicados à prática da conservação no que tange, em especial, a sua materialidade. Este projeto está situado no âmbito da...","categories": [],
         "tags": [],
         "url": "/projeto/conserva-moderno/",
         "teaser": null
@@ -390,7 +390,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Resiliência urbana: estratégias adaptativas na construção tradicional",
-        "excerpt":"Projeto vinculado à linha de pesquisa Patrimônio Cultural e Preservação, área de concentração Teoria, História e Crítica do Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.  ","categories": [],
+        "excerpt":"Projeto vinculado à linha de pesquisa Patrimônio Cultural e Preservação, área de concentração Teoria, História e Crítica do Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.   ","categories": [],
         "tags": ["Arquitetura tradicional","História da construção","Historic Building Information Modeling (HBIM)","Brasil","Século XIX"],
         "url": "/projeto/adaptive-construction/",
         "teaser": null
