@@ -32,11 +32,11 @@ header:
   image_description:
   caption:
   og_image:
+  actions:
+  - label: Site do projeto
+    url: https://dmcpatrimonio.github.io/adaptive-construction
 parentOrganization: construcao
 startDate: 2020-05-05
-sameAs:
-- name: Site do projeto
-  url: https://dmcpatrimonio.github.io/adaptive-construction
 nocite: >
   garcia:2020caixa7,
   oliveira:2019avenida1,

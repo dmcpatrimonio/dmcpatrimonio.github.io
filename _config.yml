@@ -187,7 +187,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: Pandoc
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -195,6 +195,25 @@ incremental: false
 relative_links:
   enabled                : true
   collections            : true
+scholar:
+  bibliography           : "_biblio.bib"
+  group_by               : year, type
+  group_order            : descending, ascending
+  locale                 : pt
+  sort_by                : author
+  source                 : "./"
+  style                  : "associacao-brasileira-de-normas-tecnicas"
+  type_aliases:
+    mvbook               : book
+  type_names:
+    article: "Artigo completo em periódico acadêmico"
+    book: "Livro"
+    incollection: "Capítulo de livro"
+    inproceedings: "Trabalho completo em anais de evento"
+    misc: "Outros trabalhos técnicos"
+    unpublished: "Palestra"
+    thesis: "Dissertação de Mestrado"
+    phdthesis: "Tese de Doutorado"
 
 
 # Markdown Processing
@@ -239,6 +258,7 @@ plugins:
   - jekyll-data
   - jekyll-pandoc
   - jekyll-relative-links
+  - jekyll-scholar
   - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
@@ -314,6 +334,8 @@ defaults:
       related: true
       show_date          : true
       date_format        : "%d/%m/%Y"
+      toc                : true
+      toc_sticky         : true
       header:
         overlay_color    : "#111111"
         overlay_filter   : 0.5
@@ -357,6 +379,7 @@ defaults:
       share              : true
       related            : true
       toc                : true
+      toc_sticky         : true
       header:
         overlay_color    : "#111111"
         overlay_filter   : 0.5
@@ -373,6 +396,8 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
+      toc_sticky         : true
     # _organization
   - scope:
       path               : ""
@@ -386,6 +411,8 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
+      toc_sticky         : true
     # _person
   - scope:
       path               : ""
@@ -413,6 +440,8 @@ defaults:
       comments           : false
       share              : true
       related            : true
+      toc                : true
+      toc_sticky         : true
       header:
         overlay_color    : "#111111"
         overlay_filter   : 0.5

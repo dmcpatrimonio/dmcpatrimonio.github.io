@@ -105,13 +105,14 @@ ol.refs {
 
 ul.list {
 	list-style: none;
-	text-indent: -1em;
-}
-
-ul.list > li:before {
-	content: "– ";
+	text-indent: -2.5rem;
+	& > li:before {
+		content: "– ";
+	}
 }
 
 span.keywords-title {
 	font-weight: bold;
 }
+
+// vim: set shiftwidth=2 tabstop=2 :
