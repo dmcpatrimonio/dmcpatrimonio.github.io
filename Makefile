@@ -11,7 +11,7 @@ JEKYLL-VERSION := 4.2.0
 PANDOC-VERSION := 2.14.1
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
 	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
+	jekyll/jekyll:$(JEKYLL-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
@@ -30,7 +30,7 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	@echo "$< > $@"
 
 .PHONY : _site
-_site : | _lib/chicago-cv.csl
+_site :
 	@$(JEKYLL/PANDOC) /bin/bash -c \
 	"chmod 777 /srv/jekyll && jekyll build"
 
@@ -41,7 +41,7 @@ _csl/%.csl : _csl
 # Install and cleanup {{{1
 # ===================
 .PHONY : serve
-serve : | _lib/chicago-cv.csl
+serve :
 	@$(JEKYLL/PANDOC) jekyll serve
 
 .PHONY : _csl
