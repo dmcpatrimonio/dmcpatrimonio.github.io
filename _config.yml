@@ -196,7 +196,7 @@ relative_links:
   enabled                : true
   collections            : true
 scholar:
-  bibliography           : "_biblio.bib"
+  bibliography           : "_bibliography/references.bib"
   group_by               : year, type
   group_order            : descending, ascending
   locale                 : pt
