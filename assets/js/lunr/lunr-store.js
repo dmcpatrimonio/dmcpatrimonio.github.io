@@ -342,7 +342,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Relatório Sucupira 2017–2020: Projeto de pesquisa Clássico Tradicional Eclético",
-        "excerpt":"Destaques Teses e dissertações com produção derivada 2020 PEREIRA, O. S. C. Arquitetura e Psicanálise: Atravessamentos teóricos a partir da década de 1960. Dissertação (Mestrado em Arquitetura e Urbanismo)—Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, 2020. A pesquisa aborda problemas teórico-críticos relevantes para uma epistemologia da história da...","categories": ["Sucupira"],
+        "excerpt":"Destaques Teses e dissertações com produção derivada 2020 PEREIRA, O. S. C. Arquitetura e Psicanálise: Atravessamentos teóricos a partir da década de 1960. Dissertação de Mestrado em Arquitetura e Urbanismo—Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo, 2020. A pesquisa aborda problemas teórico-críticos relevantes para uma epistemologia da história...","categories": ["Sucupira"],
         "tags": ["relatório",2017,2018,2019,2020,"Clássico Tradicional Eclético"],
         "url": "/sucupira/sucupira-classico-trad-ecletico/",
         "teaser": null
