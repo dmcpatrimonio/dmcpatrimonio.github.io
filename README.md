@@ -1,6 +1,6 @@
 # Documentação, Modelagem e Conservação do Patrimônio #
 
-![](https://github.com/dmcpatrimonio/arqtrad/workflows/Website/badge.svg?branch=master)
+![](https://github.com/dmcpatrimonio/dmcpatrimonio.github.io/workflows/Website/badge.svg?branch=master)
 
 Site do grupo de pesquisa. Usamos:
 
