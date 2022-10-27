@@ -196,20 +196,21 @@ relative_links:
   enabled                : true
   collections            : true
 scholar:
-  bibliography           : "_biblio.bib"
+  bibliography           : "_bibliography/references.bib"
   group_by               : year, type
   group_order            : descending, ascending
   locale                 : pt
   sort_by                : author
   source                 : "./"
   style                  : "associacao-brasileira-de-normas-tecnicas"
+  type_aliases:
+    mvbook               : book
   type_names:
     article: "Artigo completo em periódico acadêmico"
-    book: "Livro autoral"
+    book: "Livro"
     incollection: "Capítulo de livro"
     inproceedings: "Trabalho completo em anais de evento"
     misc: "Outros trabalhos técnicos"
-    mvbook: "Livro organizado"
     unpublished: "Palestra"
     thesis: "Dissertação de Mestrado"
     phdthesis: "Tese de Doutorado"
