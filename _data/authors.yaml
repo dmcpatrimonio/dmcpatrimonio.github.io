@@ -1259,6 +1259,9 @@ Pedro Paulo Palazzo:
     Role:
     - name: Professor Adjunto
       startDate: 2015-11-30
+      endDate  : 2020-07-06
+    - name: Professor Associado
+      startDate: 2020-07-06
 
 Renan Balzani:
   name: "Renan Balzani"
