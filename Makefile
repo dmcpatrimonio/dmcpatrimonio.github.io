@@ -8,12 +8,12 @@ vpath reference.% .:_lib
 
 DEFAULTS := defaults.yaml _biblio.bib
 JEKYLL-VERSION := 4.2.0
-PANDOC-VERSION := 2.14.1
+PANDOC-VERSION := 2.19.2
 JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
 	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 	jekyll/jekyll:$(JEKYLL-VERSION)
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
+	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC-VERSION)
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" palazzo/pandoc-ebgaramond:$(PANDOC-VERSION)
 
