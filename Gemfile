@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2.0"
-gem "minimal-mistakes-jekyll", "~>4.23.0"
+gem "minimal-mistakes-jekyll", "~>4.24.0"
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
