@@ -34,7 +34,7 @@ header:
   og_image:
   actions:
   - label: Site do projeto
-    url: https://dmcpatrimonio.github.io/adaptive-construction
+    url: https://estrategias-adaptativas.github.io/
 parentOrganization: construcao
 startDate: 2020-05-05
 nocite: >
